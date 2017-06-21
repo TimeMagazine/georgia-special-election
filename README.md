@@ -22,7 +22,7 @@ This will place the CSV files in the [/csv](/csv) directory. Now it's time for R
 
 There are 682 precincts across the three counties, but we're only interesting in the 208 that are located in the sixth district and voted in the special election. (A very small number of precincts were not used.) So we'll use the trusty old `merge` function in R to combine them, having already carefully made sure in the Node script that the precinct names match from one year to the next. 
 
-The R code is well commented. You can either run `join.R` or open `code.Rproj` as an RStudio project.
+The R code is well commented. You can either run `join.R` or open `code.Rproj` as an RStudio project. The script runs a few sanity checks on the data and outputs both a `csv/results.csv` and `json/results.json` file with the combined 2016 and 2017 results in one row per precinct.
 
 # Make a map
 
@@ -40,6 +40,7 @@ The Georgia General Assembly publishes [SHP files](http://www.legis.ga.gov/joint
 ### Precincts
 	wget http://www.legis.ga.gov/Joint/reapportionment/Documents/VTD2016-Shape.zip && unzip VTD2016-Shape.zip
 	mapshaper VTD2016-Shape.shp name=precincts -filter 'CTYNAME == "Cobb" || CTYNAME == "DeKalb" || CTYNAME == "Fulton"' -filter-fields ID,DATA,POPULATION,DISTRICT,PRECINCT_I,PRECINCT_N,CTYNAME,FIPS1 -rename-fields FIPS=FIPS1,PRECINCT_ID=PRECINCT_I,NAME=PRECINCT_N -o format=topojson topojson/GA06_Precincts.topojson	
+	rm VTD*
 
 ### Okay, this is gonna get a little weird
 
