@@ -1,0 +1,693 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/20/2017 11:28:53 PM EDT</Timestamp>
+    <ElectionName>June 20, 2017 - Special Runoff</ElectionName>
+    <ElectionDate>6/20/2017</ElectionDate>
+    <Region>Cobb</Region>
+    <VoterTurnout totalVoters="129570" ballotsCast="78493" voterTurnout="60.58">
+        <Precincts>
+            <Precinct name="Addison 01" totalVoters="2184" ballotsCast="1305" voterTurnout="59.75" percentReporting="4" />
+            <Precinct name="Bells Ferry 02" totalVoters="2708" ballotsCast="1484" voterTurnout="54.80" percentReporting="4" />
+            <Precinct name="Bells Ferry 03" totalVoters="5249" ballotsCast="2478" voterTurnout="47.21" percentReporting="4" />
+            <Precinct name="Blackwell 01" totalVoters="2369" ballotsCast="1322" voterTurnout="55.80" percentReporting="4" />
+            <Precinct name="Chattahoochee 01" totalVoters="2528" ballotsCast="770" voterTurnout="30.46" percentReporting="4" />
+            <Precinct name="Chestnut Ridge 01" totalVoters="2866" ballotsCast="2020" voterTurnout="70.48" percentReporting="4" />
+            <Precinct name="Dickerson 01" totalVoters="2626" ballotsCast="1772" voterTurnout="67.48" percentReporting="4" />
+            <Precinct name="Dodgen 01" totalVoters="1927" ballotsCast="1311" voterTurnout="68.03" percentReporting="4" />
+            <Precinct name="Davis 01" totalVoters="1829" ballotsCast="1083" voterTurnout="59.21" percentReporting="4" />
+            <Precinct name="Eastside 01" totalVoters="2781" ballotsCast="1855" voterTurnout="66.70" percentReporting="4" />
+            <Precinct name="Eastside 02" totalVoters="3725" ballotsCast="2492" voterTurnout="66.90" percentReporting="4" />
+            <Precinct name="Elizabeth 02" totalVoters="2171" ballotsCast="1227" voterTurnout="56.52" percentReporting="4" />
+            <Precinct name="Elizabeth 03" totalVoters="2479" ballotsCast="1530" voterTurnout="61.72" percentReporting="4" />
+            <Precinct name="Elizabeth 04" totalVoters="2531" ballotsCast="1267" voterTurnout="50.06" percentReporting="4" />
+            <Precinct name="Elizabeth 05" totalVoters="2667" ballotsCast="1625" voterTurnout="60.93" percentReporting="4" />
+            <Precinct name="East Piedmont 01" totalVoters="310" ballotsCast="186" voterTurnout="60.00" percentReporting="4" />
+            <Precinct name="Fullers Park 01" totalVoters="3105" ballotsCast="2007" voterTurnout="64.64" percentReporting="4" />
+            <Precinct name="Garrison Mill 01" totalVoters="2510" ballotsCast="1667" voterTurnout="66.41" percentReporting="4" />
+            <Precinct name="Gritters 01" totalVoters="3564" ballotsCast="1961" voterTurnout="55.02" percentReporting="4" />
+            <Precinct name="Hightower 01" totalVoters="3848" ballotsCast="2519" voterTurnout="65.46" percentReporting="4" />
+            <Precinct name="Kell 01" totalVoters="1811" ballotsCast="1031" voterTurnout="56.93" percentReporting="4" />
+            <Precinct name="Lassiter 01" totalVoters="3328" ballotsCast="2039" voterTurnout="61.27" percentReporting="4" />
+            <Precinct name="Mabry 01" totalVoters="1573" ballotsCast="1069" voterTurnout="67.96" percentReporting="4" />
+            <Precinct name="Murdock 01" totalVoters="3635" ballotsCast="2391" voterTurnout="65.78" percentReporting="4" />
+            <Precinct name="McCleskey 01" totalVoters="1607" ballotsCast="1050" voterTurnout="65.34" percentReporting="4" />
+            <Precinct name="Marietta 5A" totalVoters="838" ballotsCast="186" voterTurnout="22.20" percentReporting="4" />
+            <Precinct name="Marietta 6A" totalVoters="766" ballotsCast="263" voterTurnout="34.33" percentReporting="4" />
+            <Precinct name="Marietta 6B" totalVoters="2492" ballotsCast="1473" voterTurnout="59.11" percentReporting="4" />
+            <Precinct name="Marietta 7A" totalVoters="581" ballotsCast="214" voterTurnout="36.83" percentReporting="4" />
+            <Precinct name="Mount Bethel 01" totalVoters="3778" ballotsCast="2534" voterTurnout="67.07" percentReporting="4" />
+            <Precinct name="Mount Bethel 03" totalVoters="2876" ballotsCast="1844" voterTurnout="64.12" percentReporting="4" />
+            <Precinct name="Mount Bethel 04" totalVoters="2765" ballotsCast="1826" voterTurnout="66.04" percentReporting="4" />
+            <Precinct name="Nicholson 01" totalVoters="2211" ballotsCast="1203" voterTurnout="54.41" percentReporting="4" />
+            <Precinct name="Powers Ferry 01" totalVoters="142" ballotsCast="61" voterTurnout="42.96" percentReporting="4" />
+            <Precinct name="Post Oak 01" totalVoters="3334" ballotsCast="2108" voterTurnout="63.23" percentReporting="4" />
+            <Precinct name="Pope 01" totalVoters="2836" ballotsCast="1803" voterTurnout="63.58" percentReporting="4" />
+            <Precinct name="Palmer 01" totalVoters="1212" ballotsCast="604" voterTurnout="49.83" percentReporting="4" />
+            <Precinct name="Rocky Mount 01" totalVoters="3007" ballotsCast="1842" voterTurnout="61.26" percentReporting="4" />
+            <Precinct name="Roswell 01" totalVoters="5010" ballotsCast="3416" voterTurnout="68.18" percentReporting="4" />
+            <Precinct name="Roswell 02" totalVoters="3402" ballotsCast="2298" voterTurnout="67.55" percentReporting="4" />
+            <Precinct name="Sandy Plains 01" totalVoters="2593" ballotsCast="1545" voterTurnout="59.58" percentReporting="4" />
+            <Precinct name="Shallowford Falls 01" totalVoters="3080" ballotsCast="2090" voterTurnout="67.86" percentReporting="4" />
+            <Precinct name="Simpson 01" totalVoters="1772" ballotsCast="1097" voterTurnout="61.91" percentReporting="4" />
+            <Precinct name="Sewell Mill 01" totalVoters="3054" ballotsCast="1949" voterTurnout="63.82" percentReporting="4" />
+            <Precinct name="Sewell Mill 03" totalVoters="4129" ballotsCast="1946" voterTurnout="47.13" percentReporting="4" />
+            <Precinct name="Sope Creek 01" totalVoters="2011" ballotsCast="1394" voterTurnout="69.32" percentReporting="4" />
+            <Precinct name="Sope Creek 02" totalVoters="4062" ballotsCast="2306" voterTurnout="56.77" percentReporting="4" />
+            <Precinct name="Sope Creek 03" totalVoters="2716" ballotsCast="1671" voterTurnout="61.52" percentReporting="4" />
+            <Precinct name="Timber Ridge 01" totalVoters="2299" ballotsCast="1591" voterTurnout="69.20" percentReporting="4" />
+            <Precinct name="Willeo 01" totalVoters="2673" ballotsCast="1768" voterTurnout="66.14" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="10" text="U.S. Representative, District 6" isQuestion="false" precinctsReporting="50" precinctsReported="50">
+        <VoteType name="Number of Precincts for Race" votes="50">
+            <Precinct name="Addison 01" votes="1" />
+            <Precinct name="Bells Ferry 02" votes="1" />
+            <Precinct name="Bells Ferry 03" votes="1" />
+            <Precinct name="Blackwell 01" votes="1" />
+            <Precinct name="Chattahoochee 01" votes="1" />
+            <Precinct name="Chestnut Ridge 01" votes="1" />
+            <Precinct name="Dickerson 01" votes="1" />
+            <Precinct name="Dodgen 01" votes="1" />
+            <Precinct name="Davis 01" votes="1" />
+            <Precinct name="Eastside 01" votes="1" />
+            <Precinct name="Eastside 02" votes="1" />
+            <Precinct name="Elizabeth 02" votes="1" />
+            <Precinct name="Elizabeth 03" votes="1" />
+            <Precinct name="Elizabeth 04" votes="1" />
+            <Precinct name="Elizabeth 05" votes="1" />
+            <Precinct name="East Piedmont 01" votes="1" />
+            <Precinct name="Fullers Park 01" votes="1" />
+            <Precinct name="Garrison Mill 01" votes="1" />
+            <Precinct name="Gritters 01" votes="1" />
+            <Precinct name="Hightower 01" votes="1" />
+            <Precinct name="Kell 01" votes="1" />
+            <Precinct name="Lassiter 01" votes="1" />
+            <Precinct name="Mabry 01" votes="1" />
+            <Precinct name="Murdock 01" votes="1" />
+            <Precinct name="McCleskey 01" votes="1" />
+            <Precinct name="Marietta 5A" votes="1" />
+            <Precinct name="Marietta 6A" votes="1" />
+            <Precinct name="Marietta 6B" votes="1" />
+            <Precinct name="Marietta 7A" votes="1" />
+            <Precinct name="Mount Bethel 01" votes="1" />
+            <Precinct name="Mount Bethel 03" votes="1" />
+            <Precinct name="Mount Bethel 04" votes="1" />
+            <Precinct name="Nicholson 01" votes="1" />
+            <Precinct name="Powers Ferry 01" votes="1" />
+            <Precinct name="Post Oak 01" votes="1" />
+            <Precinct name="Pope 01" votes="1" />
+            <Precinct name="Palmer 01" votes="1" />
+            <Precinct name="Rocky Mount 01" votes="1" />
+            <Precinct name="Roswell 01" votes="1" />
+            <Precinct name="Roswell 02" votes="1" />
+            <Precinct name="Sandy Plains 01" votes="1" />
+            <Precinct name="Shallowford Falls 01" votes="1" />
+            <Precinct name="Simpson 01" votes="1" />
+            <Precinct name="Sewell Mill 01" votes="1" />
+            <Precinct name="Sewell Mill 03" votes="1" />
+            <Precinct name="Sope Creek 01" votes="1" />
+            <Precinct name="Sope Creek 02" votes="1" />
+            <Precinct name="Sope Creek 03" votes="1" />
+            <Precinct name="Timber Ridge 01" votes="1" />
+            <Precinct name="Willeo 01" votes="1" />
+        </VoteType>
+        <VoteType name="Number of Precincts Reporting" votes="50">
+            <Precinct name="Addison 01" votes="1" />
+            <Precinct name="Bells Ferry 02" votes="1" />
+            <Precinct name="Bells Ferry 03" votes="1" />
+            <Precinct name="Blackwell 01" votes="1" />
+            <Precinct name="Chattahoochee 01" votes="1" />
+            <Precinct name="Chestnut Ridge 01" votes="1" />
+            <Precinct name="Dickerson 01" votes="1" />
+            <Precinct name="Dodgen 01" votes="1" />
+            <Precinct name="Davis 01" votes="1" />
+            <Precinct name="Eastside 01" votes="1" />
+            <Precinct name="Eastside 02" votes="1" />
+            <Precinct name="Elizabeth 02" votes="1" />
+            <Precinct name="Elizabeth 03" votes="1" />
+            <Precinct name="Elizabeth 04" votes="1" />
+            <Precinct name="Elizabeth 05" votes="1" />
+            <Precinct name="East Piedmont 01" votes="1" />
+            <Precinct name="Fullers Park 01" votes="1" />
+            <Precinct name="Garrison Mill 01" votes="1" />
+            <Precinct name="Gritters 01" votes="1" />
+            <Precinct name="Hightower 01" votes="1" />
+            <Precinct name="Kell 01" votes="1" />
+            <Precinct name="Lassiter 01" votes="1" />
+            <Precinct name="Mabry 01" votes="1" />
+            <Precinct name="Murdock 01" votes="1" />
+            <Precinct name="McCleskey 01" votes="1" />
+            <Precinct name="Marietta 5A" votes="1" />
+            <Precinct name="Marietta 6A" votes="1" />
+            <Precinct name="Marietta 6B" votes="1" />
+            <Precinct name="Marietta 7A" votes="1" />
+            <Precinct name="Mount Bethel 01" votes="1" />
+            <Precinct name="Mount Bethel 03" votes="1" />
+            <Precinct name="Mount Bethel 04" votes="1" />
+            <Precinct name="Nicholson 01" votes="1" />
+            <Precinct name="Powers Ferry 01" votes="1" />
+            <Precinct name="Post Oak 01" votes="1" />
+            <Precinct name="Pope 01" votes="1" />
+            <Precinct name="Palmer 01" votes="1" />
+            <Precinct name="Rocky Mount 01" votes="1" />
+            <Precinct name="Roswell 01" votes="1" />
+            <Precinct name="Roswell 02" votes="1" />
+            <Precinct name="Sandy Plains 01" votes="1" />
+            <Precinct name="Shallowford Falls 01" votes="1" />
+            <Precinct name="Simpson 01" votes="1" />
+            <Precinct name="Sewell Mill 01" votes="1" />
+            <Precinct name="Sewell Mill 03" votes="1" />
+            <Precinct name="Sope Creek 01" votes="1" />
+            <Precinct name="Sope Creek 02" votes="1" />
+            <Precinct name="Sope Creek 03" votes="1" />
+            <Precinct name="Timber Ridge 01" votes="1" />
+            <Precinct name="Willeo 01" votes="1" />
+        </VoteType>
+        <Choice key="60" text="KAREN HANDEL (REP)" totalVotes="45625">
+            <VoteType name="Election Day" votes="31893">
+                <Precinct name="Addison 01" votes="539" />
+                <Precinct name="Bells Ferry 02" votes="628" />
+                <Precinct name="Bells Ferry 03" votes="1072" />
+                <Precinct name="Blackwell 01" votes="520" />
+                <Precinct name="Chattahoochee 01" votes="95" />
+                <Precinct name="Chestnut Ridge 01" votes="959" />
+                <Precinct name="Dickerson 01" votes="718" />
+                <Precinct name="Dodgen 01" votes="550" />
+                <Precinct name="Davis 01" votes="507" />
+                <Precinct name="Eastside 01" votes="664" />
+                <Precinct name="Eastside 02" votes="968" />
+                <Precinct name="Elizabeth 02" votes="460" />
+                <Precinct name="Elizabeth 03" votes="592" />
+                <Precinct name="Elizabeth 04" votes="385" />
+                <Precinct name="Elizabeth 05" votes="649" />
+                <Precinct name="East Piedmont 01" votes="100" />
+                <Precinct name="Fullers Park 01" votes="790" />
+                <Precinct name="Garrison Mill 01" votes="747" />
+                <Precinct name="Gritters 01" votes="797" />
+                <Precinct name="Hightower 01" votes="1067" />
+                <Precinct name="Kell 01" votes="438" />
+                <Precinct name="Lassiter 01" votes="951" />
+                <Precinct name="Mabry 01" votes="547" />
+                <Precinct name="Murdock 01" votes="1054" />
+                <Precinct name="McCleskey 01" votes="514" />
+                <Precinct name="Marietta 5A" votes="16" />
+                <Precinct name="Marietta 6A" votes="39" />
+                <Precinct name="Marietta 6B" votes="468" />
+                <Precinct name="Marietta 7A" votes="40" />
+                <Precinct name="Mount Bethel 01" votes="978" />
+                <Precinct name="Mount Bethel 03" votes="549" />
+                <Precinct name="Mount Bethel 04" votes="636" />
+                <Precinct name="Nicholson 01" votes="562" />
+                <Precinct name="Powers Ferry 01" votes="20" />
+                <Precinct name="Post Oak 01" votes="1059" />
+                <Precinct name="Pope 01" votes="732" />
+                <Precinct name="Palmer 01" votes="302" />
+                <Precinct name="Rocky Mount 01" votes="905" />
+                <Precinct name="Roswell 01" votes="1371" />
+                <Precinct name="Roswell 02" votes="928" />
+                <Precinct name="Sandy Plains 01" votes="619" />
+                <Precinct name="Shallowford Falls 01" votes="913" />
+                <Precinct name="Simpson 01" votes="477" />
+                <Precinct name="Sewell Mill 01" votes="678" />
+                <Precinct name="Sewell Mill 03" votes="653" />
+                <Precinct name="Sope Creek 01" votes="588" />
+                <Precinct name="Sope Creek 02" votes="838" />
+                <Precinct name="Sope Creek 03" votes="745" />
+                <Precinct name="Timber Ridge 01" votes="651" />
+                <Precinct name="Willeo 01" votes="815" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="4366">
+                <Precinct name="Addison 01" votes="75" />
+                <Precinct name="Bells Ferry 02" votes="61" />
+                <Precinct name="Bells Ferry 03" votes="139" />
+                <Precinct name="Blackwell 01" votes="63" />
+                <Precinct name="Chattahoochee 01" votes="18" />
+                <Precinct name="Chestnut Ridge 01" votes="104" />
+                <Precinct name="Dickerson 01" votes="85" />
+                <Precinct name="Dodgen 01" votes="73" />
+                <Precinct name="Davis 01" votes="42" />
+                <Precinct name="Eastside 01" votes="124" />
+                <Precinct name="Eastside 02" votes="132" />
+                <Precinct name="Elizabeth 02" votes="81" />
+                <Precinct name="Elizabeth 03" votes="106" />
+                <Precinct name="Elizabeth 04" votes="38" />
+                <Precinct name="Elizabeth 05" votes="75" />
+                <Precinct name="East Piedmont 01" votes="4" />
+                <Precinct name="Fullers Park 01" votes="106" />
+                <Precinct name="Garrison Mill 01" votes="72" />
+                <Precinct name="Gritters 01" votes="115" />
+                <Precinct name="Hightower 01" votes="152" />
+                <Precinct name="Kell 01" votes="74" />
+                <Precinct name="Lassiter 01" votes="118" />
+                <Precinct name="Mabry 01" votes="53" />
+                <Precinct name="Murdock 01" votes="118" />
+                <Precinct name="McCleskey 01" votes="37" />
+                <Precinct name="Marietta 5A" votes="4" />
+                <Precinct name="Marietta 6A" votes="10" />
+                <Precinct name="Marietta 6B" votes="59" />
+                <Precinct name="Marietta 7A" votes="15" />
+                <Precinct name="Mount Bethel 01" votes="174" />
+                <Precinct name="Mount Bethel 03" votes="106" />
+                <Precinct name="Mount Bethel 04" votes="149" />
+                <Precinct name="Nicholson 01" votes="67" />
+                <Precinct name="Powers Ferry 01" votes="3" />
+                <Precinct name="Post Oak 01" votes="126" />
+                <Precinct name="Pope 01" votes="129" />
+                <Precinct name="Palmer 01" votes="37" />
+                <Precinct name="Rocky Mount 01" votes="64" />
+                <Precinct name="Roswell 01" votes="231" />
+                <Precinct name="Roswell 02" votes="144" />
+                <Precinct name="Sandy Plains 01" votes="83" />
+                <Precinct name="Shallowford Falls 01" votes="104" />
+                <Precinct name="Simpson 01" votes="65" />
+                <Precinct name="Sewell Mill 01" votes="110" />
+                <Precinct name="Sewell Mill 03" votes="108" />
+                <Precinct name="Sope Creek 01" votes="82" />
+                <Precinct name="Sope Creek 02" votes="144" />
+                <Precinct name="Sope Creek 03" votes="87" />
+                <Precinct name="Timber Ridge 01" votes="96" />
+                <Precinct name="Willeo 01" votes="104" />
+            </VoteType>
+            <VoteType name="Advance in Person 1" votes="3666">
+                <Precinct name="Addison 01" votes="103" />
+                <Precinct name="Bells Ferry 02" votes="109" />
+                <Precinct name="Bells Ferry 03" votes="192" />
+                <Precinct name="Blackwell 01" votes="102" />
+                <Precinct name="Chattahoochee 01" votes="15" />
+                <Precinct name="Chestnut Ridge 01" votes="47" />
+                <Precinct name="Dickerson 01" votes="44" />
+                <Precinct name="Dodgen 01" votes="50" />
+                <Precinct name="Davis 01" votes="51" />
+                <Precinct name="Eastside 01" votes="41" />
+                <Precinct name="Eastside 02" votes="105" />
+                <Precinct name="Elizabeth 02" votes="153" />
+                <Precinct name="Elizabeth 03" votes="141" />
+                <Precinct name="Elizabeth 04" votes="76" />
+                <Precinct name="Elizabeth 05" votes="68" />
+                <Precinct name="East Piedmont 01" votes="24" />
+                <Precinct name="Fullers Park 01" votes="85" />
+                <Precinct name="Garrison Mill 01" votes="92" />
+                <Precinct name="Gritters 01" votes="198" />
+                <Precinct name="Hightower 01" votes="72" />
+                <Precinct name="Kell 01" votes="61" />
+                <Precinct name="Lassiter 01" votes="129" />
+                <Precinct name="Mabry 01" votes="71" />
+                <Precinct name="Murdock 01" votes="107" />
+                <Precinct name="McCleskey 01" votes="67" />
+                <Precinct name="Marietta 5A" votes="8" />
+                <Precinct name="Marietta 6A" votes="28" />
+                <Precinct name="Marietta 6B" votes="143" />
+                <Precinct name="Marietta 7A" votes="23" />
+                <Precinct name="Mount Bethel 01" votes="41" />
+                <Precinct name="Mount Bethel 03" votes="22" />
+                <Precinct name="Mount Bethel 04" votes="44" />
+                <Precinct name="Nicholson 01" votes="80" />
+                <Precinct name="Powers Ferry 01" votes="5" />
+                <Precinct name="Post Oak 01" votes="99" />
+                <Precinct name="Pope 01" votes="69" />
+                <Precinct name="Palmer 01" votes="71" />
+                <Precinct name="Rocky Mount 01" votes="96" />
+                <Precinct name="Roswell 01" votes="100" />
+                <Precinct name="Roswell 02" votes="42" />
+                <Precinct name="Sandy Plains 01" votes="61" />
+                <Precinct name="Shallowford Falls 01" votes="66" />
+                <Precinct name="Simpson 01" votes="53" />
+                <Precinct name="Sewell Mill 01" votes="88" />
+                <Precinct name="Sewell Mill 03" votes="92" />
+                <Precinct name="Sope Creek 01" votes="36" />
+                <Precinct name="Sope Creek 02" votes="104" />
+                <Precinct name="Sope Creek 03" votes="35" />
+                <Precinct name="Timber Ridge 01" votes="20" />
+                <Precinct name="Willeo 01" votes="37" />
+            </VoteType>
+            <VoteType name="Advance in Person 2" votes="5700">
+                <Precinct name="Addison 01" votes="20" />
+                <Precinct name="Bells Ferry 02" votes="7" />
+                <Precinct name="Bells Ferry 03" votes="16" />
+                <Precinct name="Blackwell 01" votes="4" />
+                <Precinct name="Chattahoochee 01" votes="25" />
+                <Precinct name="Chestnut Ridge 01" votes="177" />
+                <Precinct name="Dickerson 01" votes="206" />
+                <Precinct name="Dodgen 01" votes="149" />
+                <Precinct name="Davis 01" votes="34" />
+                <Precinct name="Eastside 01" votes="261" />
+                <Precinct name="Eastside 02" votes="265" />
+                <Precinct name="Elizabeth 02" votes="17" />
+                <Precinct name="Elizabeth 03" votes="87" />
+                <Precinct name="Elizabeth 04" votes="39" />
+                <Precinct name="Elizabeth 05" votes="84" />
+                <Precinct name="East Piedmont 01" votes="4" />
+                <Precinct name="Fullers Park 01" votes="167" />
+                <Precinct name="Garrison Mill 01" votes="62" />
+                <Precinct name="Gritters 01" votes="29" />
+                <Precinct name="Hightower 01" votes="240" />
+                <Precinct name="Kell 01" votes="30" />
+                <Precinct name="Lassiter 01" votes="113" />
+                <Precinct name="Mabry 01" votes="53" />
+                <Precinct name="Murdock 01" votes="183" />
+                <Precinct name="McCleskey 01" votes="31" />
+                <Precinct name="Marietta 5A" votes="3" />
+                <Precinct name="Marietta 6A" votes="3" />
+                <Precinct name="Marietta 6B" votes="34" />
+                <Precinct name="Marietta 7A" votes="4" />
+                <Precinct name="Mount Bethel 01" votes="330" />
+                <Precinct name="Mount Bethel 03" votes="354" />
+                <Precinct name="Mount Bethel 04" votes="284" />
+                <Precinct name="Nicholson 01" votes="10" />
+                <Precinct name="Powers Ferry 01" votes="0" />
+                <Precinct name="Post Oak 01" votes="109" />
+                <Precinct name="Pope 01" votes="140" />
+                <Precinct name="Palmer 01" votes="1" />
+                <Precinct name="Rocky Mount 01" votes="53" />
+                <Precinct name="Roswell 01" votes="340" />
+                <Precinct name="Roswell 02" votes="243" />
+                <Precinct name="Sandy Plains 01" votes="75" />
+                <Precinct name="Shallowford Falls 01" votes="186" />
+                <Precinct name="Simpson 01" votes="39" />
+                <Precinct name="Sewell Mill 01" votes="194" />
+                <Precinct name="Sewell Mill 03" votes="120" />
+                <Precinct name="Sope Creek 01" votes="160" />
+                <Precinct name="Sope Creek 02" votes="219" />
+                <Precinct name="Sope Creek 03" votes="190" />
+                <Precinct name="Timber Ridge 01" votes="166" />
+                <Precinct name="Willeo 01" votes="140" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="Addison 01" votes="0" />
+                <Precinct name="Bells Ferry 02" votes="0" />
+                <Precinct name="Bells Ferry 03" votes="0" />
+                <Precinct name="Blackwell 01" votes="0" />
+                <Precinct name="Chattahoochee 01" votes="0" />
+                <Precinct name="Chestnut Ridge 01" votes="0" />
+                <Precinct name="Dickerson 01" votes="0" />
+                <Precinct name="Dodgen 01" votes="0" />
+                <Precinct name="Davis 01" votes="0" />
+                <Precinct name="Eastside 01" votes="0" />
+                <Precinct name="Eastside 02" votes="0" />
+                <Precinct name="Elizabeth 02" votes="0" />
+                <Precinct name="Elizabeth 03" votes="0" />
+                <Precinct name="Elizabeth 04" votes="0" />
+                <Precinct name="Elizabeth 05" votes="0" />
+                <Precinct name="East Piedmont 01" votes="0" />
+                <Precinct name="Fullers Park 01" votes="0" />
+                <Precinct name="Garrison Mill 01" votes="0" />
+                <Precinct name="Gritters 01" votes="0" />
+                <Precinct name="Hightower 01" votes="0" />
+                <Precinct name="Kell 01" votes="0" />
+                <Precinct name="Lassiter 01" votes="0" />
+                <Precinct name="Mabry 01" votes="0" />
+                <Precinct name="Murdock 01" votes="0" />
+                <Precinct name="McCleskey 01" votes="0" />
+                <Precinct name="Marietta 5A" votes="0" />
+                <Precinct name="Marietta 6A" votes="0" />
+                <Precinct name="Marietta 6B" votes="0" />
+                <Precinct name="Marietta 7A" votes="0" />
+                <Precinct name="Mount Bethel 01" votes="0" />
+                <Precinct name="Mount Bethel 03" votes="0" />
+                <Precinct name="Mount Bethel 04" votes="0" />
+                <Precinct name="Nicholson 01" votes="0" />
+                <Precinct name="Powers Ferry 01" votes="0" />
+                <Precinct name="Post Oak 01" votes="0" />
+                <Precinct name="Pope 01" votes="0" />
+                <Precinct name="Palmer 01" votes="0" />
+                <Precinct name="Rocky Mount 01" votes="0" />
+                <Precinct name="Roswell 01" votes="0" />
+                <Precinct name="Roswell 02" votes="0" />
+                <Precinct name="Sandy Plains 01" votes="0" />
+                <Precinct name="Shallowford Falls 01" votes="0" />
+                <Precinct name="Simpson 01" votes="0" />
+                <Precinct name="Sewell Mill 01" votes="0" />
+                <Precinct name="Sewell Mill 03" votes="0" />
+                <Precinct name="Sope Creek 01" votes="0" />
+                <Precinct name="Sope Creek 02" votes="0" />
+                <Precinct name="Sope Creek 03" votes="0" />
+                <Precinct name="Timber Ridge 01" votes="0" />
+                <Precinct name="Willeo 01" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="JON OSSOFF (DEM)" totalVotes="32833">
+            <VoteType name="Election Day" votes="18451">
+                <Precinct name="Addison 01" votes="373" />
+                <Precinct name="Bells Ferry 02" votes="440" />
+                <Precinct name="Bells Ferry 03" votes="624" />
+                <Precinct name="Blackwell 01" votes="358" />
+                <Precinct name="Chattahoochee 01" votes="328" />
+                <Precinct name="Chestnut Ridge 01" votes="390" />
+                <Precinct name="Dickerson 01" votes="360" />
+                <Precinct name="Dodgen 01" votes="265" />
+                <Precinct name="Davis 01" votes="277" />
+                <Precinct name="Eastside 01" votes="317" />
+                <Precinct name="Eastside 02" votes="543" />
+                <Precinct name="Elizabeth 02" votes="304" />
+                <Precinct name="Elizabeth 03" votes="284" />
+                <Precinct name="Elizabeth 04" votes="400" />
+                <Precinct name="Elizabeth 05" votes="419" />
+                <Precinct name="East Piedmont 01" votes="32" />
+                <Precinct name="Fullers Park 01" votes="444" />
+                <Precinct name="Garrison Mill 01" votes="431" />
+                <Precinct name="Gritters 01" votes="541" />
+                <Precinct name="Hightower 01" votes="545" />
+                <Precinct name="Kell 01" votes="298" />
+                <Precinct name="Lassiter 01" votes="480" />
+                <Precinct name="Mabry 01" votes="229" />
+                <Precinct name="Murdock 01" votes="558" />
+                <Precinct name="McCleskey 01" votes="250" />
+                <Precinct name="Marietta 5A" votes="84" />
+                <Precinct name="Marietta 6A" votes="100" />
+                <Precinct name="Marietta 6B" votes="409" />
+                <Precinct name="Marietta 7A" votes="64" />
+                <Precinct name="Mount Bethel 01" votes="494" />
+                <Precinct name="Mount Bethel 03" votes="328" />
+                <Precinct name="Mount Bethel 04" votes="311" />
+                <Precinct name="Nicholson 01" votes="346" />
+                <Precinct name="Powers Ferry 01" votes="17" />
+                <Precinct name="Post Oak 01" votes="472" />
+                <Precinct name="Pope 01" votes="412" />
+                <Precinct name="Palmer 01" votes="141" />
+                <Precinct name="Rocky Mount 01" votes="486" />
+                <Precinct name="Roswell 01" votes="665" />
+                <Precinct name="Roswell 02" votes="494" />
+                <Precinct name="Sandy Plains 01" votes="422" />
+                <Precinct name="Shallowford Falls 01" votes="476" />
+                <Precinct name="Simpson 01" votes="281" />
+                <Precinct name="Sewell Mill 01" votes="457" />
+                <Precinct name="Sewell Mill 03" votes="546" />
+                <Precinct name="Sope Creek 01" votes="302" />
+                <Precinct name="Sope Creek 02" votes="554" />
+                <Precinct name="Sope Creek 03" votes="340" />
+                <Precinct name="Timber Ridge 01" votes="362" />
+                <Precinct name="Willeo 01" votes="398" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="6621">
+                <Precinct name="Addison 01" votes="88" />
+                <Precinct name="Bells Ferry 02" votes="99" />
+                <Precinct name="Bells Ferry 03" votes="199" />
+                <Precinct name="Blackwell 01" votes="120" />
+                <Precinct name="Chattahoochee 01" votes="104" />
+                <Precinct name="Chestnut Ridge 01" votes="192" />
+                <Precinct name="Dickerson 01" votes="150" />
+                <Precinct name="Dodgen 01" votes="110" />
+                <Precinct name="Davis 01" votes="92" />
+                <Precinct name="Eastside 01" votes="215" />
+                <Precinct name="Eastside 02" votes="215" />
+                <Precinct name="Elizabeth 02" votes="86" />
+                <Precinct name="Elizabeth 03" votes="136" />
+                <Precinct name="Elizabeth 04" votes="147" />
+                <Precinct name="Elizabeth 05" votes="167" />
+                <Precinct name="East Piedmont 01" votes="7" />
+                <Precinct name="Fullers Park 01" votes="190" />
+                <Precinct name="Garrison Mill 01" votes="133" />
+                <Precinct name="Gritters 01" votes="125" />
+                <Precinct name="Hightower 01" votes="231" />
+                <Precinct name="Kell 01" votes="67" />
+                <Precinct name="Lassiter 01" votes="88" />
+                <Precinct name="Mabry 01" votes="54" />
+                <Precinct name="Murdock 01" votes="176" />
+                <Precinct name="McCleskey 01" votes="73" />
+                <Precinct name="Marietta 5A" votes="18" />
+                <Precinct name="Marietta 6A" votes="32" />
+                <Precinct name="Marietta 6B" votes="153" />
+                <Precinct name="Marietta 7A" votes="31" />
+                <Precinct name="Mount Bethel 01" votes="229" />
+                <Precinct name="Mount Bethel 03" votes="227" />
+                <Precinct name="Mount Bethel 04" votes="187" />
+                <Precinct name="Nicholson 01" votes="68" />
+                <Precinct name="Powers Ferry 01" votes="7" />
+                <Precinct name="Post Oak 01" votes="116" />
+                <Precinct name="Pope 01" votes="138" />
+                <Precinct name="Palmer 01" votes="19" />
+                <Precinct name="Rocky Mount 01" votes="119" />
+                <Precinct name="Roswell 01" votes="365" />
+                <Precinct name="Roswell 02" votes="247" />
+                <Precinct name="Sandy Plains 01" votes="150" />
+                <Precinct name="Shallowford Falls 01" votes="129" />
+                <Precinct name="Simpson 01" votes="78" />
+                <Precinct name="Sewell Mill 01" votes="185" />
+                <Precinct name="Sewell Mill 03" votes="172" />
+                <Precinct name="Sope Creek 01" votes="103" />
+                <Precinct name="Sope Creek 02" votes="192" />
+                <Precinct name="Sope Creek 03" votes="117" />
+                <Precinct name="Timber Ridge 01" votes="140" />
+                <Precinct name="Willeo 01" votes="135" />
+            </VoteType>
+            <VoteType name="Advance in Person 1" votes="3725">
+                <Precinct name="Addison 01" votes="77" />
+                <Precinct name="Bells Ferry 02" votes="124" />
+                <Precinct name="Bells Ferry 03" votes="215" />
+                <Precinct name="Blackwell 01" votes="140" />
+                <Precinct name="Chattahoochee 01" votes="97" />
+                <Precinct name="Chestnut Ridge 01" votes="39" />
+                <Precinct name="Dickerson 01" votes="44" />
+                <Precinct name="Dodgen 01" votes="41" />
+                <Precinct name="Davis 01" votes="47" />
+                <Precinct name="Eastside 01" votes="57" />
+                <Precinct name="Eastside 02" votes="113" />
+                <Precinct name="Elizabeth 02" votes="112" />
+                <Precinct name="Elizabeth 03" votes="127" />
+                <Precinct name="Elizabeth 04" votes="130" />
+                <Precinct name="Elizabeth 05" votes="73" />
+                <Precinct name="East Piedmont 01" votes="15" />
+                <Precinct name="Fullers Park 01" votes="83" />
+                <Precinct name="Garrison Mill 01" votes="60" />
+                <Precinct name="Gritters 01" votes="129" />
+                <Precinct name="Hightower 01" votes="67" />
+                <Precinct name="Kell 01" votes="47" />
+                <Precinct name="Lassiter 01" votes="104" />
+                <Precinct name="Mabry 01" votes="32" />
+                <Precinct name="Murdock 01" votes="84" />
+                <Precinct name="McCleskey 01" votes="64" />
+                <Precinct name="Marietta 5A" votes="44" />
+                <Precinct name="Marietta 6A" votes="38" />
+                <Precinct name="Marietta 6B" votes="169" />
+                <Precinct name="Marietta 7A" votes="31" />
+                <Precinct name="Mount Bethel 01" votes="50" />
+                <Precinct name="Mount Bethel 03" votes="20" />
+                <Precinct name="Mount Bethel 04" votes="35" />
+                <Precinct name="Nicholson 01" votes="60" />
+                <Precinct name="Powers Ferry 01" votes="6" />
+                <Precinct name="Post Oak 01" votes="74" />
+                <Precinct name="Pope 01" votes="84" />
+                <Precinct name="Palmer 01" votes="29" />
+                <Precinct name="Rocky Mount 01" votes="82" />
+                <Precinct name="Roswell 01" votes="92" />
+                <Precinct name="Roswell 02" votes="50" />
+                <Precinct name="Sandy Plains 01" votes="66" />
+                <Precinct name="Shallowford Falls 01" votes="78" />
+                <Precinct name="Simpson 01" votes="64" />
+                <Precinct name="Sewell Mill 01" votes="103" />
+                <Precinct name="Sewell Mill 03" votes="144" />
+                <Precinct name="Sope Creek 01" votes="26" />
+                <Precinct name="Sope Creek 02" votes="121" />
+                <Precinct name="Sope Creek 03" votes="43" />
+                <Precinct name="Timber Ridge 01" votes="37" />
+                <Precinct name="Willeo 01" votes="58" />
+            </VoteType>
+            <VoteType name="Advance in Person 2" votes="4036">
+                <Precinct name="Addison 01" votes="30" />
+                <Precinct name="Bells Ferry 02" votes="16" />
+                <Precinct name="Bells Ferry 03" votes="18" />
+                <Precinct name="Blackwell 01" votes="14" />
+                <Precinct name="Chattahoochee 01" votes="87" />
+                <Precinct name="Chestnut Ridge 01" votes="111" />
+                <Precinct name="Dickerson 01" votes="165" />
+                <Precinct name="Dodgen 01" votes="72" />
+                <Precinct name="Davis 01" votes="33" />
+                <Precinct name="Eastside 01" votes="173" />
+                <Precinct name="Eastside 02" votes="149" />
+                <Precinct name="Elizabeth 02" votes="13" />
+                <Precinct name="Elizabeth 03" votes="56" />
+                <Precinct name="Elizabeth 04" votes="51" />
+                <Precinct name="Elizabeth 05" votes="90" />
+                <Precinct name="East Piedmont 01" votes="0" />
+                <Precinct name="Fullers Park 01" votes="139" />
+                <Precinct name="Garrison Mill 01" votes="69" />
+                <Precinct name="Gritters 01" votes="27" />
+                <Precinct name="Hightower 01" votes="144" />
+                <Precinct name="Kell 01" votes="16" />
+                <Precinct name="Lassiter 01" votes="55" />
+                <Precinct name="Mabry 01" votes="30" />
+                <Precinct name="Murdock 01" votes="111" />
+                <Precinct name="McCleskey 01" votes="13" />
+                <Precinct name="Marietta 5A" votes="9" />
+                <Precinct name="Marietta 6A" votes="13" />
+                <Precinct name="Marietta 6B" votes="37" />
+                <Precinct name="Marietta 7A" votes="6" />
+                <Precinct name="Mount Bethel 01" votes="237" />
+                <Precinct name="Mount Bethel 03" votes="238" />
+                <Precinct name="Mount Bethel 04" votes="179" />
+                <Precinct name="Nicholson 01" votes="9" />
+                <Precinct name="Powers Ferry 01" votes="3" />
+                <Precinct name="Post Oak 01" votes="53" />
+                <Precinct name="Pope 01" votes="99" />
+                <Precinct name="Palmer 01" votes="4" />
+                <Precinct name="Rocky Mount 01" votes="35" />
+                <Precinct name="Roswell 01" votes="251" />
+                <Precinct name="Roswell 02" votes="150" />
+                <Precinct name="Sandy Plains 01" votes="69" />
+                <Precinct name="Shallowford Falls 01" votes="138" />
+                <Precinct name="Simpson 01" votes="40" />
+                <Precinct name="Sewell Mill 01" votes="133" />
+                <Precinct name="Sewell Mill 03" votes="109" />
+                <Precinct name="Sope Creek 01" votes="96" />
+                <Precinct name="Sope Creek 02" votes="133" />
+                <Precinct name="Sope Creek 03" votes="113" />
+                <Precinct name="Timber Ridge 01" votes="119" />
+                <Precinct name="Willeo 01" votes="81" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="Addison 01" votes="0" />
+                <Precinct name="Bells Ferry 02" votes="0" />
+                <Precinct name="Bells Ferry 03" votes="0" />
+                <Precinct name="Blackwell 01" votes="0" />
+                <Precinct name="Chattahoochee 01" votes="0" />
+                <Precinct name="Chestnut Ridge 01" votes="0" />
+                <Precinct name="Dickerson 01" votes="0" />
+                <Precinct name="Dodgen 01" votes="0" />
+                <Precinct name="Davis 01" votes="0" />
+                <Precinct name="Eastside 01" votes="0" />
+                <Precinct name="Eastside 02" votes="0" />
+                <Precinct name="Elizabeth 02" votes="0" />
+                <Precinct name="Elizabeth 03" votes="0" />
+                <Precinct name="Elizabeth 04" votes="0" />
+                <Precinct name="Elizabeth 05" votes="0" />
+                <Precinct name="East Piedmont 01" votes="0" />
+                <Precinct name="Fullers Park 01" votes="0" />
+                <Precinct name="Garrison Mill 01" votes="0" />
+                <Precinct name="Gritters 01" votes="0" />
+                <Precinct name="Hightower 01" votes="0" />
+                <Precinct name="Kell 01" votes="0" />
+                <Precinct name="Lassiter 01" votes="0" />
+                <Precinct name="Mabry 01" votes="0" />
+                <Precinct name="Murdock 01" votes="0" />
+                <Precinct name="McCleskey 01" votes="0" />
+                <Precinct name="Marietta 5A" votes="0" />
+                <Precinct name="Marietta 6A" votes="0" />
+                <Precinct name="Marietta 6B" votes="0" />
+                <Precinct name="Marietta 7A" votes="0" />
+                <Precinct name="Mount Bethel 01" votes="0" />
+                <Precinct name="Mount Bethel 03" votes="0" />
+                <Precinct name="Mount Bethel 04" votes="0" />
+                <Precinct name="Nicholson 01" votes="0" />
+                <Precinct name="Powers Ferry 01" votes="0" />
+                <Precinct name="Post Oak 01" votes="0" />
+                <Precinct name="Pope 01" votes="0" />
+                <Precinct name="Palmer 01" votes="0" />
+                <Precinct name="Rocky Mount 01" votes="0" />
+                <Precinct name="Roswell 01" votes="0" />
+                <Precinct name="Roswell 02" votes="0" />
+                <Precinct name="Sandy Plains 01" votes="0" />
+                <Precinct name="Shallowford Falls 01" votes="0" />
+                <Precinct name="Simpson 01" votes="0" />
+                <Precinct name="Sewell Mill 01" votes="0" />
+                <Precinct name="Sewell Mill 03" votes="0" />
+                <Precinct name="Sope Creek 01" votes="0" />
+                <Precinct name="Sope Creek 02" votes="0" />
+                <Precinct name="Sope Creek 03" votes="0" />
+                <Precinct name="Timber Ridge 01" votes="0" />
+                <Precinct name="Willeo 01" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

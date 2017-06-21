@@ -1,0 +1,512 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/20/2017 9:53:05 PM EDT</Timestamp>
+    <ElectionName>June 20, 2017 - Special Runoff</ElectionName>
+    <ElectionDate>6/20/2017</ElectionDate>
+    <Region>DeKalb</Region>
+    <VoterTurnout totalVoters="101421" ballotsCast="57953" voterTurnout="57.14">
+        <Precincts>
+            <Precinct name="ASHFORD DUNWOODY RD" totalVoters="2645" ballotsCast="1767" voterTurnout="66.81" percentReporting="4" />
+            <Precinct name="ASHFORD PARK ELEM" totalVoters="2207" ballotsCast="1368" voterTurnout="61.98" percentReporting="4" />
+            <Precinct name="ASHFORD PARKSIDE" totalVoters="3227" ballotsCast="1728" voterTurnout="53.55" percentReporting="4" />
+            <Precinct name="AUSTIN" totalVoters="2356" ballotsCast="1741" voterTurnout="73.90" percentReporting="4" />
+            <Precinct name="BRIARLAKE ELEM" totalVoters="1607" ballotsCast="1134" voterTurnout="70.57" percentReporting="4" />
+            <Precinct name="BRIARWOOD" totalVoters="2098" ballotsCast="1097" voterTurnout="52.29" percentReporting="4" />
+            <Precinct name="BROOKHAVEN" totalVoters="3121" ballotsCast="1679" voterTurnout="53.80" percentReporting="4" />
+            <Precinct name="CHAMBLEE " totalVoters="1534" ballotsCast="778" voterTurnout="50.72" percentReporting="4" />
+            <Precinct name="CHAMBLEE 2" totalVoters="2380" ballotsCast="1386" voterTurnout="58.24" percentReporting="4" />
+            <Precinct name="CHESNUT ELEM" totalVoters="2069" ballotsCast="1047" voterTurnout="50.60" percentReporting="4" />
+            <Precinct name="CROSS KEYS HIGH" totalVoters="1938" ballotsCast="887" voterTurnout="45.77" percentReporting="4" />
+            <Precinct name="DORAVILLE NORTH" totalVoters="2476" ballotsCast="1073" voterTurnout="43.34" percentReporting="4" />
+            <Precinct name="DORAVILLE SOUTH" totalVoters="1085" ballotsCast="543" voterTurnout="50.05" percentReporting="4" />
+            <Precinct name="DRESDEN ELEM" totalVoters="4230" ballotsCast="1997" voterTurnout="47.21" percentReporting="4" />
+            <Precinct name="DUNWOODY" totalVoters="2701" ballotsCast="1401" voterTurnout="51.87" percentReporting="4" />
+            <Precinct name="DUNWOODY HIGH" totalVoters="1876" ballotsCast="1344" voterTurnout="71.64" percentReporting="4" />
+            <Precinct name="DUNWOODY LIBRARY" totalVoters="2312" ballotsCast="1707" voterTurnout="73.83" percentReporting="4" />
+            <Precinct name="EMBRY HILLS" totalVoters="1805" ballotsCast="1150" voterTurnout="63.71" percentReporting="4" />
+            <Precinct name="EVANSDALE ELEM" totalVoters="2546" ballotsCast="1442" voterTurnout="56.64" percentReporting="4" />
+            <Precinct name="GEORGETOWN SQUARE" totalVoters="3413" ballotsCast="1534" voterTurnout="44.95" percentReporting="4" />
+            <Precinct name="HAWTHORNE ELEM" totalVoters="3422" ballotsCast="1682" voterTurnout="49.15" percentReporting="4" />
+            <Precinct name="HENDERSON MILL ELEM" totalVoters="2790" ballotsCast="1644" voterTurnout="58.92" percentReporting="4" />
+            <Precinct name="HUNTLEY HILLS ELEM" totalVoters="2827" ballotsCast="1358" voterTurnout="48.04" percentReporting="4" />
+            <Precinct name="KINGSLEY ELEM" totalVoters="2292" ballotsCast="1639" voterTurnout="71.51" percentReporting="4" />
+            <Precinct name="KITTREDGE ELEM" totalVoters="1961" ballotsCast="1374" voterTurnout="70.07" percentReporting="4" />
+            <Precinct name="LAKESIDE HIGH" totalVoters="2901" ballotsCast="2011" voterTurnout="69.32" percentReporting="4" />
+            <Precinct name="LIVSEY ELEM" totalVoters="1334" ballotsCast="966" voterTurnout="72.41" percentReporting="4" />
+            <Precinct name="MIDVALE ELEM" totalVoters="1906" ballotsCast="1330" voterTurnout="69.78" percentReporting="4" />
+            <Precinct name="MIDVALE ROAD" totalVoters="2617" ballotsCast="1515" voterTurnout="57.89" percentReporting="4" />
+            <Precinct name="MONTGOMERY ELEM" totalVoters="2182" ballotsCast="1421" voterTurnout="65.12" percentReporting="4" />
+            <Precinct name="MT. VERNON EAST" totalVoters="2397" ballotsCast="1697" voterTurnout="70.80" percentReporting="4" />
+            <Precinct name="MT. VERNON WEST" totalVoters="2054" ballotsCast="1428" voterTurnout="69.52" percentReporting="4" />
+            <Precinct name="NORTH PEACHTREE" totalVoters="1625" ballotsCast="788" voterTurnout="48.49" percentReporting="4" />
+            <Precinct name="OAKCLIFF ELEM" totalVoters="1677" ballotsCast="730" voterTurnout="43.53" percentReporting="4" />
+            <Precinct name="PEACHTREE MIDDLE" totalVoters="3020" ballotsCast="1433" voterTurnout="47.45" percentReporting="4" />
+            <Precinct name="PLEASANTDALE ROAD" totalVoters="3678" ballotsCast="1245" voterTurnout="33.85" percentReporting="4" />
+            <Precinct name="SILVER LAKE" totalVoters="4336" ballotsCast="2140" voterTurnout="49.35" percentReporting="4" />
+            <Precinct name="SKYLAND" totalVoters="1679" ballotsCast="999" voterTurnout="59.50" percentReporting="4" />
+            <Precinct name="TILLY MILL ROAD" totalVoters="1430" ballotsCast="1007" voterTurnout="70.42" percentReporting="4" />
+            <Precinct name="TUCKER" totalVoters="2782" ballotsCast="1796" voterTurnout="64.56" percentReporting="4" />
+            <Precinct name="TUCKER LIBRARY" totalVoters="2420" ballotsCast="1397" voterTurnout="57.73" percentReporting="4" />
+            <Precinct name="WARREN TECH" totalVoters="1162" ballotsCast="632" voterTurnout="54.39" percentReporting="4" />
+            <Precinct name="WINTERS CHAPEL" totalVoters="1303" ballotsCast="918" voterTurnout="70.45" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="10" text="U.S. Representative, District 6" isQuestion="false" precinctsReporting="43" precinctsReported="43">
+        <VoteType name="Number of Precincts for Race" votes="43">
+            <Precinct name="ASHFORD DUNWOODY RD" votes="1" />
+            <Precinct name="ASHFORD PARK ELEM" votes="1" />
+            <Precinct name="ASHFORD PARKSIDE" votes="1" />
+            <Precinct name="AUSTIN" votes="1" />
+            <Precinct name="BRIARLAKE ELEM" votes="1" />
+            <Precinct name="BRIARWOOD" votes="1" />
+            <Precinct name="BROOKHAVEN" votes="1" />
+            <Precinct name="CHAMBLEE " votes="1" />
+            <Precinct name="CHAMBLEE 2" votes="1" />
+            <Precinct name="CHESNUT ELEM" votes="1" />
+            <Precinct name="CROSS KEYS HIGH" votes="1" />
+            <Precinct name="DORAVILLE NORTH" votes="1" />
+            <Precinct name="DORAVILLE SOUTH" votes="1" />
+            <Precinct name="DRESDEN ELEM" votes="1" />
+            <Precinct name="DUNWOODY" votes="1" />
+            <Precinct name="DUNWOODY HIGH" votes="1" />
+            <Precinct name="DUNWOODY LIBRARY" votes="1" />
+            <Precinct name="EMBRY HILLS" votes="1" />
+            <Precinct name="EVANSDALE ELEM" votes="1" />
+            <Precinct name="GEORGETOWN SQUARE" votes="1" />
+            <Precinct name="HAWTHORNE ELEM" votes="1" />
+            <Precinct name="HENDERSON MILL ELEM" votes="1" />
+            <Precinct name="HUNTLEY HILLS ELEM" votes="1" />
+            <Precinct name="KINGSLEY ELEM" votes="1" />
+            <Precinct name="KITTREDGE ELEM" votes="1" />
+            <Precinct name="LAKESIDE HIGH" votes="1" />
+            <Precinct name="LIVSEY ELEM" votes="1" />
+            <Precinct name="MIDVALE ELEM" votes="1" />
+            <Precinct name="MIDVALE ROAD" votes="1" />
+            <Precinct name="MONTGOMERY ELEM" votes="1" />
+            <Precinct name="MT. VERNON EAST" votes="1" />
+            <Precinct name="MT. VERNON WEST" votes="1" />
+            <Precinct name="NORTH PEACHTREE" votes="1" />
+            <Precinct name="OAKCLIFF ELEM" votes="1" />
+            <Precinct name="PEACHTREE MIDDLE" votes="1" />
+            <Precinct name="PLEASANTDALE ROAD" votes="1" />
+            <Precinct name="SILVER LAKE" votes="1" />
+            <Precinct name="SKYLAND" votes="1" />
+            <Precinct name="TILLY MILL ROAD" votes="1" />
+            <Precinct name="TUCKER" votes="1" />
+            <Precinct name="TUCKER LIBRARY" votes="1" />
+            <Precinct name="WARREN TECH" votes="1" />
+            <Precinct name="WINTERS CHAPEL" votes="1" />
+        </VoteType>
+        <VoteType name="Number of Precincts Reporting" votes="43">
+            <Precinct name="ASHFORD DUNWOODY RD" votes="1" />
+            <Precinct name="ASHFORD PARK ELEM" votes="1" />
+            <Precinct name="ASHFORD PARKSIDE" votes="1" />
+            <Precinct name="AUSTIN" votes="1" />
+            <Precinct name="BRIARLAKE ELEM" votes="1" />
+            <Precinct name="BRIARWOOD" votes="1" />
+            <Precinct name="BROOKHAVEN" votes="1" />
+            <Precinct name="CHAMBLEE " votes="1" />
+            <Precinct name="CHAMBLEE 2" votes="1" />
+            <Precinct name="CHESNUT ELEM" votes="1" />
+            <Precinct name="CROSS KEYS HIGH" votes="1" />
+            <Precinct name="DORAVILLE NORTH" votes="1" />
+            <Precinct name="DORAVILLE SOUTH" votes="1" />
+            <Precinct name="DRESDEN ELEM" votes="1" />
+            <Precinct name="DUNWOODY" votes="1" />
+            <Precinct name="DUNWOODY HIGH" votes="1" />
+            <Precinct name="DUNWOODY LIBRARY" votes="1" />
+            <Precinct name="EMBRY HILLS" votes="1" />
+            <Precinct name="EVANSDALE ELEM" votes="1" />
+            <Precinct name="GEORGETOWN SQUARE" votes="1" />
+            <Precinct name="HAWTHORNE ELEM" votes="1" />
+            <Precinct name="HENDERSON MILL ELEM" votes="1" />
+            <Precinct name="HUNTLEY HILLS ELEM" votes="1" />
+            <Precinct name="KINGSLEY ELEM" votes="1" />
+            <Precinct name="KITTREDGE ELEM" votes="1" />
+            <Precinct name="LAKESIDE HIGH" votes="1" />
+            <Precinct name="LIVSEY ELEM" votes="1" />
+            <Precinct name="MIDVALE ELEM" votes="1" />
+            <Precinct name="MIDVALE ROAD" votes="1" />
+            <Precinct name="MONTGOMERY ELEM" votes="1" />
+            <Precinct name="MT. VERNON EAST" votes="1" />
+            <Precinct name="MT. VERNON WEST" votes="1" />
+            <Precinct name="NORTH PEACHTREE" votes="1" />
+            <Precinct name="OAKCLIFF ELEM" votes="1" />
+            <Precinct name="PEACHTREE MIDDLE" votes="1" />
+            <Precinct name="PLEASANTDALE ROAD" votes="1" />
+            <Precinct name="SILVER LAKE" votes="1" />
+            <Precinct name="SKYLAND" votes="1" />
+            <Precinct name="TILLY MILL ROAD" votes="1" />
+            <Precinct name="TUCKER" votes="1" />
+            <Precinct name="TUCKER LIBRARY" votes="1" />
+            <Precinct name="WARREN TECH" votes="1" />
+            <Precinct name="WINTERS CHAPEL" votes="1" />
+        </VoteType>
+        <Choice key="60" text="KAREN HANDEL (REP)" totalVotes="24070">
+            <VoteType name="Election Day" votes="11983">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="510" />
+                <Precinct name="ASHFORD PARK ELEM" votes="431" />
+                <Precinct name="ASHFORD PARKSIDE" votes="449" />
+                <Precinct name="AUSTIN" votes="419" />
+                <Precinct name="BRIARLAKE ELEM" votes="243" />
+                <Precinct name="BRIARWOOD" votes="203" />
+                <Precinct name="BROOKHAVEN" votes="508" />
+                <Precinct name="CHAMBLEE " votes="146" />
+                <Precinct name="CHAMBLEE 2" votes="285" />
+                <Precinct name="CHESNUT ELEM" votes="188" />
+                <Precinct name="CROSS KEYS HIGH" votes="212" />
+                <Precinct name="DORAVILLE NORTH" votes="182" />
+                <Precinct name="DORAVILLE SOUTH" votes="96" />
+                <Precinct name="DRESDEN ELEM" votes="274" />
+                <Precinct name="DUNWOODY" votes="235" />
+                <Precinct name="DUNWOODY HIGH" votes="295" />
+                <Precinct name="DUNWOODY LIBRARY" votes="375" />
+                <Precinct name="EMBRY HILLS" votes="244" />
+                <Precinct name="EVANSDALE ELEM" votes="238" />
+                <Precinct name="GEORGETOWN SQUARE" votes="341" />
+                <Precinct name="HAWTHORNE ELEM" votes="142" />
+                <Precinct name="HENDERSON MILL ELEM" votes="243" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="206" />
+                <Precinct name="KINGSLEY ELEM" votes="444" />
+                <Precinct name="KITTREDGE ELEM" votes="290" />
+                <Precinct name="LAKESIDE HIGH" votes="369" />
+                <Precinct name="LIVSEY ELEM" votes="178" />
+                <Precinct name="MIDVALE ELEM" votes="249" />
+                <Precinct name="MIDVALE ROAD" votes="278" />
+                <Precinct name="MONTGOMERY ELEM" votes="359" />
+                <Precinct name="MT. VERNON EAST" votes="429" />
+                <Precinct name="MT. VERNON WEST" votes="309" />
+                <Precinct name="NORTH PEACHTREE" votes="163" />
+                <Precinct name="OAKCLIFF ELEM" votes="86" />
+                <Precinct name="PEACHTREE MIDDLE" votes="209" />
+                <Precinct name="PLEASANTDALE ROAD" votes="105" />
+                <Precinct name="SILVER LAKE" votes="571" />
+                <Precinct name="SKYLAND" votes="269" />
+                <Precinct name="TILLY MILL ROAD" votes="331" />
+                <Precinct name="TUCKER" votes="311" />
+                <Precinct name="TUCKER LIBRARY" votes="175" />
+                <Precinct name="WARREN TECH" votes="135" />
+                <Precinct name="WINTERS CHAPEL" votes="258" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="1974">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="54" />
+                <Precinct name="ASHFORD PARK ELEM" votes="42" />
+                <Precinct name="ASHFORD PARKSIDE" votes="57" />
+                <Precinct name="AUSTIN" votes="77" />
+                <Precinct name="BRIARLAKE ELEM" votes="45" />
+                <Precinct name="BRIARWOOD" votes="16" />
+                <Precinct name="BROOKHAVEN" votes="26" />
+                <Precinct name="CHAMBLEE " votes="9" />
+                <Precinct name="CHAMBLEE 2" votes="43" />
+                <Precinct name="CHESNUT ELEM" votes="31" />
+                <Precinct name="CROSS KEYS HIGH" votes="28" />
+                <Precinct name="DORAVILLE NORTH" votes="27" />
+                <Precinct name="DORAVILLE SOUTH" votes="12" />
+                <Precinct name="DRESDEN ELEM" votes="66" />
+                <Precinct name="DUNWOODY" votes="49" />
+                <Precinct name="DUNWOODY HIGH" votes="89" />
+                <Precinct name="DUNWOODY LIBRARY" votes="95" />
+                <Precinct name="EMBRY HILLS" votes="44" />
+                <Precinct name="EVANSDALE ELEM" votes="34" />
+                <Precinct name="GEORGETOWN SQUARE" votes="40" />
+                <Precinct name="HAWTHORNE ELEM" votes="99" />
+                <Precinct name="HENDERSON MILL ELEM" votes="51" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="24" />
+                <Precinct name="KINGSLEY ELEM" votes="88" />
+                <Precinct name="KITTREDGE ELEM" votes="86" />
+                <Precinct name="LAKESIDE HIGH" votes="85" />
+                <Precinct name="LIVSEY ELEM" votes="24" />
+                <Precinct name="MIDVALE ELEM" votes="40" />
+                <Precinct name="MIDVALE ROAD" votes="22" />
+                <Precinct name="MONTGOMERY ELEM" votes="57" />
+                <Precinct name="MT. VERNON EAST" votes="70" />
+                <Precinct name="MT. VERNON WEST" votes="60" />
+                <Precinct name="NORTH PEACHTREE" votes="16" />
+                <Precinct name="OAKCLIFF ELEM" votes="16" />
+                <Precinct name="PEACHTREE MIDDLE" votes="34" />
+                <Precinct name="PLEASANTDALE ROAD" votes="21" />
+                <Precinct name="SILVER LAKE" votes="78" />
+                <Precinct name="SKYLAND" votes="23" />
+                <Precinct name="TILLY MILL ROAD" votes="33" />
+                <Precinct name="TUCKER" votes="53" />
+                <Precinct name="TUCKER LIBRARY" votes="39" />
+                <Precinct name="WARREN TECH" votes="18" />
+                <Precinct name="WINTERS CHAPEL" votes="53" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="10113">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="269" />
+                <Precinct name="ASHFORD PARK ELEM" votes="201" />
+                <Precinct name="ASHFORD PARKSIDE" votes="254" />
+                <Precinct name="AUSTIN" votes="537" />
+                <Precinct name="BRIARLAKE ELEM" votes="155" />
+                <Precinct name="BRIARWOOD" votes="164" />
+                <Precinct name="BROOKHAVEN" votes="212" />
+                <Precinct name="CHAMBLEE " votes="101" />
+                <Precinct name="CHAMBLEE 2" votes="210" />
+                <Precinct name="CHESNUT ELEM" votes="125" />
+                <Precinct name="CROSS KEYS HIGH" votes="90" />
+                <Precinct name="DORAVILLE NORTH" votes="63" />
+                <Precinct name="DORAVILLE SOUTH" votes="43" />
+                <Precinct name="DRESDEN ELEM" votes="189" />
+                <Precinct name="DUNWOODY" votes="292" />
+                <Precinct name="DUNWOODY HIGH" votes="363" />
+                <Precinct name="DUNWOODY LIBRARY" votes="559" />
+                <Precinct name="EMBRY HILLS" votes="168" />
+                <Precinct name="EVANSDALE ELEM" votes="211" />
+                <Precinct name="GEORGETOWN SQUARE" votes="268" />
+                <Precinct name="HAWTHORNE ELEM" votes="241" />
+                <Precinct name="HENDERSON MILL ELEM" votes="281" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="164" />
+                <Precinct name="KINGSLEY ELEM" votes="464" />
+                <Precinct name="KITTREDGE ELEM" votes="272" />
+                <Precinct name="LAKESIDE HIGH" votes="315" />
+                <Precinct name="LIVSEY ELEM" votes="209" />
+                <Precinct name="MIDVALE ELEM" votes="360" />
+                <Precinct name="MIDVALE ROAD" votes="224" />
+                <Precinct name="MONTGOMERY ELEM" votes="253" />
+                <Precinct name="MT. VERNON EAST" votes="525" />
+                <Precinct name="MT. VERNON WEST" votes="360" />
+                <Precinct name="NORTH PEACHTREE" votes="91" />
+                <Precinct name="OAKCLIFF ELEM" votes="48" />
+                <Precinct name="PEACHTREE MIDDLE" votes="211" />
+                <Precinct name="PLEASANTDALE ROAD" votes="95" />
+                <Precinct name="SILVER LAKE" votes="339" />
+                <Precinct name="SKYLAND" votes="148" />
+                <Precinct name="TILLY MILL ROAD" votes="185" />
+                <Precinct name="TUCKER" votes="389" />
+                <Precinct name="TUCKER LIBRARY" votes="259" />
+                <Precinct name="WARREN TECH" votes="55" />
+                <Precinct name="WINTERS CHAPEL" votes="151" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="0" />
+                <Precinct name="ASHFORD PARK ELEM" votes="0" />
+                <Precinct name="ASHFORD PARKSIDE" votes="0" />
+                <Precinct name="AUSTIN" votes="0" />
+                <Precinct name="BRIARLAKE ELEM" votes="0" />
+                <Precinct name="BRIARWOOD" votes="0" />
+                <Precinct name="BROOKHAVEN" votes="0" />
+                <Precinct name="CHAMBLEE " votes="0" />
+                <Precinct name="CHAMBLEE 2" votes="0" />
+                <Precinct name="CHESNUT ELEM" votes="0" />
+                <Precinct name="CROSS KEYS HIGH" votes="0" />
+                <Precinct name="DORAVILLE NORTH" votes="0" />
+                <Precinct name="DORAVILLE SOUTH" votes="0" />
+                <Precinct name="DRESDEN ELEM" votes="0" />
+                <Precinct name="DUNWOODY" votes="0" />
+                <Precinct name="DUNWOODY HIGH" votes="0" />
+                <Precinct name="DUNWOODY LIBRARY" votes="0" />
+                <Precinct name="EMBRY HILLS" votes="0" />
+                <Precinct name="EVANSDALE ELEM" votes="0" />
+                <Precinct name="GEORGETOWN SQUARE" votes="0" />
+                <Precinct name="HAWTHORNE ELEM" votes="0" />
+                <Precinct name="HENDERSON MILL ELEM" votes="0" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="0" />
+                <Precinct name="KINGSLEY ELEM" votes="0" />
+                <Precinct name="KITTREDGE ELEM" votes="0" />
+                <Precinct name="LAKESIDE HIGH" votes="0" />
+                <Precinct name="LIVSEY ELEM" votes="0" />
+                <Precinct name="MIDVALE ELEM" votes="0" />
+                <Precinct name="MIDVALE ROAD" votes="0" />
+                <Precinct name="MONTGOMERY ELEM" votes="0" />
+                <Precinct name="MT. VERNON EAST" votes="0" />
+                <Precinct name="MT. VERNON WEST" votes="0" />
+                <Precinct name="NORTH PEACHTREE" votes="0" />
+                <Precinct name="OAKCLIFF ELEM" votes="0" />
+                <Precinct name="PEACHTREE MIDDLE" votes="0" />
+                <Precinct name="PLEASANTDALE ROAD" votes="0" />
+                <Precinct name="SILVER LAKE" votes="0" />
+                <Precinct name="SKYLAND" votes="0" />
+                <Precinct name="TILLY MILL ROAD" votes="0" />
+                <Precinct name="TUCKER" votes="0" />
+                <Precinct name="TUCKER LIBRARY" votes="0" />
+                <Precinct name="WARREN TECH" votes="0" />
+                <Precinct name="WINTERS CHAPEL" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="JON OSSOFF (DEM)" totalVotes="33847">
+            <VoteType name="Election Day" votes="13093">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="383" />
+                <Precinct name="ASHFORD PARK ELEM" votes="330" />
+                <Precinct name="ASHFORD PARKSIDE" votes="482" />
+                <Precinct name="AUSTIN" votes="205" />
+                <Precinct name="BRIARLAKE ELEM" votes="256" />
+                <Precinct name="BRIARWOOD" votes="210" />
+                <Precinct name="BROOKHAVEN" votes="410" />
+                <Precinct name="CHAMBLEE " votes="191" />
+                <Precinct name="CHAMBLEE 2" votes="329" />
+                <Precinct name="CHESNUT ELEM" votes="292" />
+                <Precinct name="CROSS KEYS HIGH" votes="243" />
+                <Precinct name="DORAVILLE NORTH" votes="428" />
+                <Precinct name="DORAVILLE SOUTH" votes="196" />
+                <Precinct name="DRESDEN ELEM" votes="597" />
+                <Precinct name="DUNWOODY" votes="292" />
+                <Precinct name="DUNWOODY HIGH" votes="145" />
+                <Precinct name="DUNWOODY LIBRARY" votes="148" />
+                <Precinct name="EMBRY HILLS" votes="305" />
+                <Precinct name="EVANSDALE ELEM" votes="397" />
+                <Precinct name="GEORGETOWN SQUARE" votes="359" />
+                <Precinct name="HAWTHORNE ELEM" votes="419" />
+                <Precinct name="HENDERSON MILL ELEM" votes="373" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="452" />
+                <Precinct name="KINGSLEY ELEM" votes="203" />
+                <Precinct name="KITTREDGE ELEM" votes="241" />
+                <Precinct name="LAKESIDE HIGH" votes="468" />
+                <Precinct name="LIVSEY ELEM" votes="161" />
+                <Precinct name="MIDVALE ELEM" votes="150" />
+                <Precinct name="MIDVALE ROAD" votes="402" />
+                <Precinct name="MONTGOMERY ELEM" votes="310" />
+                <Precinct name="MT. VERNON EAST" votes="206" />
+                <Precinct name="MT. VERNON WEST" votes="184" />
+                <Precinct name="NORTH PEACHTREE" votes="251" />
+                <Precinct name="OAKCLIFF ELEM" votes="287" />
+                <Precinct name="PEACHTREE MIDDLE" votes="439" />
+                <Precinct name="PLEASANTDALE ROAD" votes="464" />
+                <Precinct name="SILVER LAKE" votes="498" />
+                <Precinct name="SKYLAND" votes="218" />
+                <Precinct name="TILLY MILL ROAD" votes="176" />
+                <Precinct name="TUCKER" votes="328" />
+                <Precinct name="TUCKER LIBRARY" votes="264" />
+                <Precinct name="WARREN TECH" votes="232" />
+                <Precinct name="WINTERS CHAPEL" votes="169" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="5474">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="176" />
+                <Precinct name="ASHFORD PARK ELEM" votes="112" />
+                <Precinct name="ASHFORD PARKSIDE" votes="132" />
+                <Precinct name="AUSTIN" votes="113" />
+                <Precinct name="BRIARLAKE ELEM" votes="156" />
+                <Precinct name="BRIARWOOD" votes="81" />
+                <Precinct name="BROOKHAVEN" votes="122" />
+                <Precinct name="CHAMBLEE " votes="58" />
+                <Precinct name="CHAMBLEE 2" votes="168" />
+                <Precinct name="CHESNUT ELEM" votes="116" />
+                <Precinct name="CROSS KEYS HIGH" votes="106" />
+                <Precinct name="DORAVILLE NORTH" votes="121" />
+                <Precinct name="DORAVILLE SOUTH" votes="63" />
+                <Precinct name="DRESDEN ELEM" votes="279" />
+                <Precinct name="DUNWOODY" votes="117" />
+                <Precinct name="DUNWOODY HIGH" votes="134" />
+                <Precinct name="DUNWOODY LIBRARY" votes="137" />
+                <Precinct name="EMBRY HILLS" votes="103" />
+                <Precinct name="EVANSDALE ELEM" votes="133" />
+                <Precinct name="GEORGETOWN SQUARE" votes="110" />
+                <Precinct name="HAWTHORNE ELEM" votes="195" />
+                <Precinct name="HENDERSON MILL ELEM" votes="165" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="131" />
+                <Precinct name="KINGSLEY ELEM" votes="126" />
+                <Precinct name="KITTREDGE ELEM" votes="161" />
+                <Precinct name="LAKESIDE HIGH" votes="252" />
+                <Precinct name="LIVSEY ELEM" votes="63" />
+                <Precinct name="MIDVALE ELEM" votes="103" />
+                <Precinct name="MIDVALE ROAD" votes="117" />
+                <Precinct name="MONTGOMERY ELEM" votes="152" />
+                <Precinct name="MT. VERNON EAST" votes="123" />
+                <Precinct name="MT. VERNON WEST" votes="150" />
+                <Precinct name="NORTH PEACHTREE" votes="67" />
+                <Precinct name="OAKCLIFF ELEM" votes="120" />
+                <Precinct name="PEACHTREE MIDDLE" votes="133" />
+                <Precinct name="PLEASANTDALE ROAD" votes="116" />
+                <Precinct name="SILVER LAKE" votes="172" />
+                <Precinct name="SKYLAND" votes="81" />
+                <Precinct name="TILLY MILL ROAD" votes="95" />
+                <Precinct name="TUCKER" votes="118" />
+                <Precinct name="TUCKER LIBRARY" votes="127" />
+                <Precinct name="WARREN TECH" votes="64" />
+                <Precinct name="WINTERS CHAPEL" votes="106" />
+            </VoteType>
+            <VoteType name="Advance in Person" votes="15280">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="372" />
+                <Precinct name="ASHFORD PARK ELEM" votes="251" />
+                <Precinct name="ASHFORD PARKSIDE" votes="354" />
+                <Precinct name="AUSTIN" votes="389" />
+                <Precinct name="BRIARLAKE ELEM" votes="279" />
+                <Precinct name="BRIARWOOD" votes="423" />
+                <Precinct name="BROOKHAVEN" votes="401" />
+                <Precinct name="CHAMBLEE " votes="271" />
+                <Precinct name="CHAMBLEE 2" votes="351" />
+                <Precinct name="CHESNUT ELEM" votes="294" />
+                <Precinct name="CROSS KEYS HIGH" votes="208" />
+                <Precinct name="DORAVILLE NORTH" votes="252" />
+                <Precinct name="DORAVILLE SOUTH" votes="133" />
+                <Precinct name="DRESDEN ELEM" votes="590" />
+                <Precinct name="DUNWOODY" votes="416" />
+                <Precinct name="DUNWOODY HIGH" votes="318" />
+                <Precinct name="DUNWOODY LIBRARY" votes="393" />
+                <Precinct name="EMBRY HILLS" votes="285" />
+                <Precinct name="EVANSDALE ELEM" votes="428" />
+                <Precinct name="GEORGETOWN SQUARE" votes="414" />
+                <Precinct name="HAWTHORNE ELEM" votes="586" />
+                <Precinct name="HENDERSON MILL ELEM" votes="530" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="381" />
+                <Precinct name="KINGSLEY ELEM" votes="314" />
+                <Precinct name="KITTREDGE ELEM" votes="323" />
+                <Precinct name="LAKESIDE HIGH" votes="522" />
+                <Precinct name="LIVSEY ELEM" votes="330" />
+                <Precinct name="MIDVALE ELEM" votes="427" />
+                <Precinct name="MIDVALE ROAD" votes="472" />
+                <Precinct name="MONTGOMERY ELEM" votes="289" />
+                <Precinct name="MT. VERNON EAST" votes="342" />
+                <Precinct name="MT. VERNON WEST" votes="364" />
+                <Precinct name="NORTH PEACHTREE" votes="198" />
+                <Precinct name="OAKCLIFF ELEM" votes="170" />
+                <Precinct name="PEACHTREE MIDDLE" votes="407" />
+                <Precinct name="PLEASANTDALE ROAD" votes="444" />
+                <Precinct name="SILVER LAKE" votes="480" />
+                <Precinct name="SKYLAND" votes="259" />
+                <Precinct name="TILLY MILL ROAD" votes="186" />
+                <Precinct name="TUCKER" votes="595" />
+                <Precinct name="TUCKER LIBRARY" votes="532" />
+                <Precinct name="WARREN TECH" votes="128" />
+                <Precinct name="WINTERS CHAPEL" votes="179" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="ASHFORD DUNWOODY RD" votes="0" />
+                <Precinct name="ASHFORD PARK ELEM" votes="0" />
+                <Precinct name="ASHFORD PARKSIDE" votes="0" />
+                <Precinct name="AUSTIN" votes="0" />
+                <Precinct name="BRIARLAKE ELEM" votes="0" />
+                <Precinct name="BRIARWOOD" votes="0" />
+                <Precinct name="BROOKHAVEN" votes="0" />
+                <Precinct name="CHAMBLEE " votes="0" />
+                <Precinct name="CHAMBLEE 2" votes="0" />
+                <Precinct name="CHESNUT ELEM" votes="0" />
+                <Precinct name="CROSS KEYS HIGH" votes="0" />
+                <Precinct name="DORAVILLE NORTH" votes="0" />
+                <Precinct name="DORAVILLE SOUTH" votes="0" />
+                <Precinct name="DRESDEN ELEM" votes="0" />
+                <Precinct name="DUNWOODY" votes="0" />
+                <Precinct name="DUNWOODY HIGH" votes="0" />
+                <Precinct name="DUNWOODY LIBRARY" votes="0" />
+                <Precinct name="EMBRY HILLS" votes="0" />
+                <Precinct name="EVANSDALE ELEM" votes="0" />
+                <Precinct name="GEORGETOWN SQUARE" votes="0" />
+                <Precinct name="HAWTHORNE ELEM" votes="0" />
+                <Precinct name="HENDERSON MILL ELEM" votes="0" />
+                <Precinct name="HUNTLEY HILLS ELEM" votes="0" />
+                <Precinct name="KINGSLEY ELEM" votes="0" />
+                <Precinct name="KITTREDGE ELEM" votes="0" />
+                <Precinct name="LAKESIDE HIGH" votes="0" />
+                <Precinct name="LIVSEY ELEM" votes="0" />
+                <Precinct name="MIDVALE ELEM" votes="0" />
+                <Precinct name="MIDVALE ROAD" votes="0" />
+                <Precinct name="MONTGOMERY ELEM" votes="0" />
+                <Precinct name="MT. VERNON EAST" votes="0" />
+                <Precinct name="MT. VERNON WEST" votes="0" />
+                <Precinct name="NORTH PEACHTREE" votes="0" />
+                <Precinct name="OAKCLIFF ELEM" votes="0" />
+                <Precinct name="PEACHTREE MIDDLE" votes="0" />
+                <Precinct name="PLEASANTDALE ROAD" votes="0" />
+                <Precinct name="SILVER LAKE" votes="0" />
+                <Precinct name="SKYLAND" votes="0" />
+                <Precinct name="TILLY MILL ROAD" votes="0" />
+                <Precinct name="TUCKER" votes="0" />
+                <Precinct name="TUCKER LIBRARY" votes="0" />
+                <Precinct name="WARREN TECH" votes="0" />
+                <Precinct name="WINTERS CHAPEL" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>

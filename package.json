@@ -1,0 +1,30 @@
+{
+  "name": "georgia-special-election",
+  "version": "0.0.0",
+  "description": "Comparing the GA-06 special election on June 20, 2017 to 2016 results",
+  "main": "get_results.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeMagazine/georgia-special-election.git"
+  },
+  "keywords": [
+    "politics"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/georgia-special-election/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/georgia-special-election#readme",
+  "dependencies": {
+    "adm-zip": "^0.4.7",
+    "async": "^2.4.1",
+    "d3": "^4.9.1",
+    "minimist": "^1.2.0",
+    "request": "^2.81.0",
+    "xml2js": "^0.4.17"
+  }
+}

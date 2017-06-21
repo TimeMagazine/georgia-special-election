@@ -1,0 +1,1538 @@
+<?xml version="1.0"?>
+<!--Election result snapshot imported from Tabulation System
+-->
+<ElectionResult>
+    <Timestamp>6/21/2017 12:15:51 AM EDT</Timestamp>
+    <ElectionName>June 20, 2017 - Special Runoff</ElectionName>
+    <ElectionDate>6/20/2017</ElectionDate>
+    <Region>Fulton</Region>
+    <VoterTurnout totalVoters="216835" ballotsCast="123176" voterTurnout="56.81">
+        <Precincts>
+            <Precinct name="AP01A" totalVoters="1862" ballotsCast="1076" voterTurnout="57.79" percentReporting="4" />
+            <Precinct name="AP01B" totalVoters="729" ballotsCast="290" voterTurnout="39.78" percentReporting="4" />
+            <Precinct name="AP01C" totalVoters="2098" ballotsCast="1227" voterTurnout="58.48" percentReporting="4" />
+            <Precinct name="AP01D" totalVoters="792" ballotsCast="357" voterTurnout="45.08" percentReporting="4" />
+            <Precinct name="AP02B" totalVoters="377" ballotsCast="181" voterTurnout="48.01" percentReporting="4" />
+            <Precinct name="AP03" totalVoters="694" ballotsCast="236" voterTurnout="34.01" percentReporting="4" />
+            <Precinct name="AP04A" totalVoters="1551" ballotsCast="1035" voterTurnout="66.73" percentReporting="4" />
+            <Precinct name="AP04B" totalVoters="377" ballotsCast="247" voterTurnout="65.52" percentReporting="4" />
+            <Precinct name="AP05" totalVoters="4113" ballotsCast="2490" voterTurnout="60.54" percentReporting="4" />
+            <Precinct name="AP06" totalVoters="1744" ballotsCast="1060" voterTurnout="60.78" percentReporting="4" />
+            <Precinct name="AP07A" totalVoters="3053" ballotsCast="1632" voterTurnout="53.46" percentReporting="4" />
+            <Precinct name="AP07B" totalVoters="1466" ballotsCast="903" voterTurnout="61.60" percentReporting="4" />
+            <Precinct name="AP09A" totalVoters="3832" ballotsCast="2158" voterTurnout="56.32" percentReporting="4" />
+            <Precinct name="AP09B" totalVoters="760" ballotsCast="440" voterTurnout="57.89" percentReporting="4" />
+            <Precinct name="AP021" totalVoters="2707" ballotsCast="1573" voterTurnout="58.11" percentReporting="4" />
+            <Precinct name="AP022" totalVoters="2002" ballotsCast="1090" voterTurnout="54.45" percentReporting="4" />
+            <Precinct name="AP10" totalVoters="895" ballotsCast="561" voterTurnout="62.68" percentReporting="4" />
+            <Precinct name="AP12A" totalVoters="586" ballotsCast="282" voterTurnout="48.12" percentReporting="4" />
+            <Precinct name="AP12B" totalVoters="607" ballotsCast="246" voterTurnout="40.53" percentReporting="4" />
+            <Precinct name="AP12C" totalVoters="1251" ballotsCast="677" voterTurnout="54.12" percentReporting="4" />
+            <Precinct name="AP13" totalVoters="2406" ballotsCast="1293" voterTurnout="53.74" percentReporting="4" />
+            <Precinct name="AP14" totalVoters="2795" ballotsCast="1785" voterTurnout="63.86" percentReporting="4" />
+            <Precinct name="JC01" totalVoters="4541" ballotsCast="2580" voterTurnout="56.82" percentReporting="4" />
+            <Precinct name="JC02" totalVoters="2011" ballotsCast="1007" voterTurnout="50.07" percentReporting="4" />
+            <Precinct name="JC03A" totalVoters="498" ballotsCast="324" voterTurnout="65.06" percentReporting="4" />
+            <Precinct name="JC03B" totalVoters="1288" ballotsCast="714" voterTurnout="55.43" percentReporting="4" />
+            <Precinct name="JC04A" totalVoters="3896" ballotsCast="2273" voterTurnout="58.34" percentReporting="4" />
+            <Precinct name="JC04B" totalVoters="250" ballotsCast="115" voterTurnout="46.00" percentReporting="4" />
+            <Precinct name="JC05" totalVoters="1989" ballotsCast="1083" voterTurnout="54.45" percentReporting="4" />
+            <Precinct name="JC06" totalVoters="2485" ballotsCast="1246" voterTurnout="50.14" percentReporting="4" />
+            <Precinct name="JC07" totalVoters="3792" ballotsCast="2177" voterTurnout="57.41" percentReporting="4" />
+            <Precinct name="JC08" totalVoters="2579" ballotsCast="1529" voterTurnout="59.29" percentReporting="4" />
+            <Precinct name="JC09" totalVoters="2695" ballotsCast="1502" voterTurnout="55.73" percentReporting="4" />
+            <Precinct name="JC10" totalVoters="2144" ballotsCast="1151" voterTurnout="53.68" percentReporting="4" />
+            <Precinct name="JC11" totalVoters="2987" ballotsCast="1739" voterTurnout="58.22" percentReporting="4" />
+            <Precinct name="JC12" totalVoters="2342" ballotsCast="1531" voterTurnout="65.37" percentReporting="4" />
+            <Precinct name="JC13A" totalVoters="1996" ballotsCast="1273" voterTurnout="63.78" percentReporting="4" />
+            <Precinct name="JC13B" totalVoters="261" ballotsCast="164" voterTurnout="62.84" percentReporting="4" />
+            <Precinct name="JC14" totalVoters="2337" ballotsCast="1393" voterTurnout="59.61" percentReporting="4" />
+            <Precinct name="JC15" totalVoters="725" ballotsCast="400" voterTurnout="55.17" percentReporting="4" />
+            <Precinct name="JC16" totalVoters="2349" ballotsCast="1446" voterTurnout="61.56" percentReporting="4" />
+            <Precinct name="JC18" totalVoters="2585" ballotsCast="1681" voterTurnout="65.03" percentReporting="4" />
+            <Precinct name="JC19" totalVoters="3463" ballotsCast="2107" voterTurnout="60.84" percentReporting="4" />
+            <Precinct name="ML011" totalVoters="2196" ballotsCast="1394" voterTurnout="63.48" percentReporting="4" />
+            <Precinct name="ML012" totalVoters="452" ballotsCast="343" voterTurnout="75.88" percentReporting="4" />
+            <Precinct name="ML01B" totalVoters="102" ballotsCast="62" voterTurnout="60.78" percentReporting="4" />
+            <Precinct name="ML021" totalVoters="1749" ballotsCast="1025" voterTurnout="58.60" percentReporting="4" />
+            <Precinct name="ML022" totalVoters="229" ballotsCast="125" voterTurnout="54.59" percentReporting="4" />
+            <Precinct name="ML023" totalVoters="1385" ballotsCast="832" voterTurnout="60.07" percentReporting="4" />
+            <Precinct name="ML024" totalVoters="98" ballotsCast="48" voterTurnout="48.98" percentReporting="4" />
+            <Precinct name="ML03" totalVoters="3498" ballotsCast="2179" voterTurnout="62.29" percentReporting="4" />
+            <Precinct name="ML04A" totalVoters="1640" ballotsCast="960" voterTurnout="58.54" percentReporting="4" />
+            <Precinct name="ML04B" totalVoters="1130" ballotsCast="712" voterTurnout="63.01" percentReporting="4" />
+            <Precinct name="ML04C" totalVoters="70" ballotsCast="48" voterTurnout="68.57" percentReporting="4" />
+            <Precinct name="ML05A" totalVoters="35" ballotsCast="19" voterTurnout="54.29" percentReporting="4" />
+            <Precinct name="ML05B" totalVoters="348" ballotsCast="214" voterTurnout="61.49" percentReporting="4" />
+            <Precinct name="ML05C" totalVoters="3743" ballotsCast="2087" voterTurnout="55.76" percentReporting="4" />
+            <Precinct name="ML06A" totalVoters="1683" ballotsCast="664" voterTurnout="39.45" percentReporting="4" />
+            <Precinct name="ML06B" totalVoters="2539" ballotsCast="1280" voterTurnout="50.41" percentReporting="4" />
+            <Precinct name="ML071" totalVoters="88" ballotsCast="55" voterTurnout="62.50" percentReporting="4" />
+            <Precinct name="ML072" totalVoters="1065" ballotsCast="620" voterTurnout="58.22" percentReporting="4" />
+            <Precinct name="ML07A" totalVoters="655" ballotsCast="386" voterTurnout="58.93" percentReporting="4" />
+            <Precinct name="MP01" totalVoters="437" ballotsCast="293" voterTurnout="67.05" percentReporting="4" />
+            <Precinct name="RW01" totalVoters="4438" ballotsCast="2945" voterTurnout="66.36" percentReporting="4" />
+            <Precinct name="RW02" totalVoters="3643" ballotsCast="2421" voterTurnout="66.46" percentReporting="4" />
+            <Precinct name="RW03" totalVoters="4002" ballotsCast="2107" voterTurnout="52.65" percentReporting="4" />
+            <Precinct name="RW04" totalVoters="1733" ballotsCast="1230" voterTurnout="70.98" percentReporting="4" />
+            <Precinct name="RW05" totalVoters="1964" ballotsCast="837" voterTurnout="42.62" percentReporting="4" />
+            <Precinct name="RW06" totalVoters="2666" ballotsCast="1597" voterTurnout="59.90" percentReporting="4" />
+            <Precinct name="RW07A" totalVoters="1306" ballotsCast="403" voterTurnout="30.86" percentReporting="4" />
+            <Precinct name="RW07B" totalVoters="355" ballotsCast="166" voterTurnout="46.76" percentReporting="4" />
+            <Precinct name="RW08" totalVoters="2085" ballotsCast="1324" voterTurnout="63.50" percentReporting="4" />
+            <Precinct name="RW09" totalVoters="5615" ballotsCast="3729" voterTurnout="66.41" percentReporting="4" />
+            <Precinct name="RW10" totalVoters="3130" ballotsCast="2103" voterTurnout="67.19" percentReporting="4" />
+            <Precinct name="RW11A" totalVoters="2442" ballotsCast="1388" voterTurnout="56.84" percentReporting="4" />
+            <Precinct name="RW12" totalVoters="5543" ballotsCast="3598" voterTurnout="64.91" percentReporting="4" />
+            <Precinct name="RW13" totalVoters="3354" ballotsCast="2154" voterTurnout="64.22" percentReporting="4" />
+            <Precinct name="RW16" totalVoters="1763" ballotsCast="1130" voterTurnout="64.10" percentReporting="4" />
+            <Precinct name="RW17" totalVoters="2576" ballotsCast="1396" voterTurnout="54.19" percentReporting="4" />
+            <Precinct name="RW19" totalVoters="1910" ballotsCast="1328" voterTurnout="69.53" percentReporting="4" />
+            <Precinct name="RW20" totalVoters="2349" ballotsCast="1594" voterTurnout="67.86" percentReporting="4" />
+            <Precinct name="RW21" totalVoters="3002" ballotsCast="1870" voterTurnout="62.29" percentReporting="4" />
+            <Precinct name="RW22A" totalVoters="3826" ballotsCast="1596" voterTurnout="41.71" percentReporting="4" />
+            <Precinct name="SS01" totalVoters="2809" ballotsCast="1938" voterTurnout="68.99" percentReporting="4" />
+            <Precinct name="SS02A" totalVoters="1087" ballotsCast="609" voterTurnout="56.03" percentReporting="4" />
+            <Precinct name="SS02B" totalVoters="1148" ballotsCast="541" voterTurnout="47.13" percentReporting="4" />
+            <Precinct name="SS03" totalVoters="1279" ballotsCast="780" voterTurnout="60.99" percentReporting="4" />
+            <Precinct name="SS04" totalVoters="2968" ballotsCast="1450" voterTurnout="48.85" percentReporting="4" />
+            <Precinct name="SS05" totalVoters="1716" ballotsCast="1209" voterTurnout="70.45" percentReporting="4" />
+            <Precinct name="SS06" totalVoters="1264" ballotsCast="852" voterTurnout="67.41" percentReporting="4" />
+            <Precinct name="SS07A" totalVoters="848" ballotsCast="524" voterTurnout="61.79" percentReporting="4" />
+            <Precinct name="SS07B" totalVoters="489" ballotsCast="252" voterTurnout="51.53" percentReporting="4" />
+            <Precinct name="SS07C" totalVoters="708" ballotsCast="343" voterTurnout="48.45" percentReporting="4" />
+            <Precinct name="SS08A" totalVoters="1181" ballotsCast="510" voterTurnout="43.18" percentReporting="4" />
+            <Precinct name="SS08B" totalVoters="617" ballotsCast="363" voterTurnout="58.83" percentReporting="4" />
+            <Precinct name="SS08C" totalVoters="563" ballotsCast="265" voterTurnout="47.07" percentReporting="4" />
+            <Precinct name="SS08D" totalVoters="1131" ballotsCast="484" voterTurnout="42.79" percentReporting="4" />
+            <Precinct name="SS11A" totalVoters="3455" ballotsCast="1570" voterTurnout="45.44" percentReporting="4" />
+            <Precinct name="SS11B" totalVoters="1117" ballotsCast="485" voterTurnout="43.42" percentReporting="4" />
+            <Precinct name="SS11C" totalVoters="235" ballotsCast="78" voterTurnout="33.19" percentReporting="4" />
+            <Precinct name="SS12" totalVoters="2472" ballotsCast="1395" voterTurnout="56.43" percentReporting="4" />
+            <Precinct name="SS15A" totalVoters="2330" ballotsCast="690" voterTurnout="29.61" percentReporting="4" />
+            <Precinct name="SS15B" totalVoters="1489" ballotsCast="652" voterTurnout="43.79" percentReporting="4" />
+            <Precinct name="SS16" totalVoters="1949" ballotsCast="1367" voterTurnout="70.14" percentReporting="4" />
+            <Precinct name="SS17" totalVoters="3265" ballotsCast="1826" voterTurnout="55.93" percentReporting="4" />
+            <Precinct name="SS18A" totalVoters="605" ballotsCast="419" voterTurnout="69.26" percentReporting="4" />
+            <Precinct name="SS18B" totalVoters="211" ballotsCast="155" voterTurnout="73.46" percentReporting="4" />
+            <Precinct name="SS19A" totalVoters="2774" ballotsCast="1131" voterTurnout="40.77" percentReporting="4" />
+            <Precinct name="SS19B" totalVoters="1968" ballotsCast="898" voterTurnout="45.63" percentReporting="4" />
+            <Precinct name="SS20" totalVoters="1822" ballotsCast="779" voterTurnout="42.76" percentReporting="4" />
+            <Precinct name="SS22" totalVoters="2527" ballotsCast="1222" voterTurnout="48.36" percentReporting="4" />
+            <Precinct name="SS25" totalVoters="1512" ballotsCast="891" voterTurnout="58.93" percentReporting="4" />
+            <Precinct name="SS26" totalVoters="3148" ballotsCast="1104" voterTurnout="35.07" percentReporting="4" />
+            <Precinct name="SS29A" totalVoters="2421" ballotsCast="1267" voterTurnout="52.33" percentReporting="4" />
+            <Precinct name="SS31" totalVoters="973" ballotsCast="591" voterTurnout="60.74" percentReporting="4" />
+        </Precincts>
+    </VoterTurnout>
+    <Contest key="70" text="U.S. Representative, District 6" isQuestion="false" precinctsReporting="115" precinctsReported="115">
+        <VoteType name="Number of Precincts for Race" votes="115">
+            <Precinct name="AP01A" votes="1" />
+            <Precinct name="AP01B" votes="1" />
+            <Precinct name="AP01C" votes="1" />
+            <Precinct name="AP01D" votes="1" />
+            <Precinct name="AP02B" votes="1" />
+            <Precinct name="AP03" votes="1" />
+            <Precinct name="AP04A" votes="1" />
+            <Precinct name="AP04B" votes="1" />
+            <Precinct name="AP05" votes="1" />
+            <Precinct name="AP06" votes="1" />
+            <Precinct name="AP07A" votes="1" />
+            <Precinct name="AP07B" votes="1" />
+            <Precinct name="AP09A" votes="1" />
+            <Precinct name="AP09B" votes="1" />
+            <Precinct name="AP021" votes="1" />
+            <Precinct name="AP022" votes="1" />
+            <Precinct name="AP10" votes="1" />
+            <Precinct name="AP12A" votes="1" />
+            <Precinct name="AP12B" votes="1" />
+            <Precinct name="AP12C" votes="1" />
+            <Precinct name="AP13" votes="1" />
+            <Precinct name="AP14" votes="1" />
+            <Precinct name="JC01" votes="1" />
+            <Precinct name="JC02" votes="1" />
+            <Precinct name="JC03A" votes="1" />
+            <Precinct name="JC03B" votes="1" />
+            <Precinct name="JC04A" votes="1" />
+            <Precinct name="JC04B" votes="1" />
+            <Precinct name="JC05" votes="1" />
+            <Precinct name="JC06" votes="1" />
+            <Precinct name="JC07" votes="1" />
+            <Precinct name="JC08" votes="1" />
+            <Precinct name="JC09" votes="1" />
+            <Precinct name="JC10" votes="1" />
+            <Precinct name="JC11" votes="1" />
+            <Precinct name="JC12" votes="1" />
+            <Precinct name="JC13A" votes="1" />
+            <Precinct name="JC13B" votes="1" />
+            <Precinct name="JC14" votes="1" />
+            <Precinct name="JC15" votes="1" />
+            <Precinct name="JC16" votes="1" />
+            <Precinct name="JC18" votes="1" />
+            <Precinct name="JC19" votes="1" />
+            <Precinct name="ML011" votes="1" />
+            <Precinct name="ML012" votes="1" />
+            <Precinct name="ML01B" votes="1" />
+            <Precinct name="ML021" votes="1" />
+            <Precinct name="ML022" votes="1" />
+            <Precinct name="ML023" votes="1" />
+            <Precinct name="ML024" votes="1" />
+            <Precinct name="ML03" votes="1" />
+            <Precinct name="ML04A" votes="1" />
+            <Precinct name="ML04B" votes="1" />
+            <Precinct name="ML04C" votes="1" />
+            <Precinct name="ML05A" votes="1" />
+            <Precinct name="ML05B" votes="1" />
+            <Precinct name="ML05C" votes="1" />
+            <Precinct name="ML06A" votes="1" />
+            <Precinct name="ML06B" votes="1" />
+            <Precinct name="ML071" votes="1" />
+            <Precinct name="ML072" votes="1" />
+            <Precinct name="ML07A" votes="1" />
+            <Precinct name="MP01" votes="1" />
+            <Precinct name="RW01" votes="1" />
+            <Precinct name="RW02" votes="1" />
+            <Precinct name="RW03" votes="1" />
+            <Precinct name="RW04" votes="1" />
+            <Precinct name="RW05" votes="1" />
+            <Precinct name="RW06" votes="1" />
+            <Precinct name="RW07A" votes="1" />
+            <Precinct name="RW07B" votes="1" />
+            <Precinct name="RW08" votes="1" />
+            <Precinct name="RW09" votes="1" />
+            <Precinct name="RW10" votes="1" />
+            <Precinct name="RW11A" votes="1" />
+            <Precinct name="RW12" votes="1" />
+            <Precinct name="RW13" votes="1" />
+            <Precinct name="RW16" votes="1" />
+            <Precinct name="RW17" votes="1" />
+            <Precinct name="RW19" votes="1" />
+            <Precinct name="RW20" votes="1" />
+            <Precinct name="RW21" votes="1" />
+            <Precinct name="RW22A" votes="1" />
+            <Precinct name="SS01" votes="1" />
+            <Precinct name="SS02A" votes="1" />
+            <Precinct name="SS02B" votes="1" />
+            <Precinct name="SS03" votes="1" />
+            <Precinct name="SS04" votes="1" />
+            <Precinct name="SS05" votes="1" />
+            <Precinct name="SS06" votes="1" />
+            <Precinct name="SS07A" votes="1" />
+            <Precinct name="SS07B" votes="1" />
+            <Precinct name="SS07C" votes="1" />
+            <Precinct name="SS08A" votes="1" />
+            <Precinct name="SS08B" votes="1" />
+            <Precinct name="SS08C" votes="1" />
+            <Precinct name="SS08D" votes="1" />
+            <Precinct name="SS11A" votes="1" />
+            <Precinct name="SS11B" votes="1" />
+            <Precinct name="SS11C" votes="1" />
+            <Precinct name="SS12" votes="1" />
+            <Precinct name="SS15A" votes="1" />
+            <Precinct name="SS15B" votes="1" />
+            <Precinct name="SS16" votes="1" />
+            <Precinct name="SS17" votes="1" />
+            <Precinct name="SS18A" votes="1" />
+            <Precinct name="SS18B" votes="1" />
+            <Precinct name="SS19A" votes="1" />
+            <Precinct name="SS19B" votes="1" />
+            <Precinct name="SS20" votes="1" />
+            <Precinct name="SS22" votes="1" />
+            <Precinct name="SS25" votes="1" />
+            <Precinct name="SS26" votes="1" />
+            <Precinct name="SS29A" votes="1" />
+            <Precinct name="SS31" votes="1" />
+        </VoteType>
+        <VoteType name="Number of Precincts Reporting" votes="115">
+            <Precinct name="AP01A" votes="1" />
+            <Precinct name="AP01B" votes="1" />
+            <Precinct name="AP01C" votes="1" />
+            <Precinct name="AP01D" votes="1" />
+            <Precinct name="AP02B" votes="1" />
+            <Precinct name="AP03" votes="1" />
+            <Precinct name="AP04A" votes="1" />
+            <Precinct name="AP04B" votes="1" />
+            <Precinct name="AP05" votes="1" />
+            <Precinct name="AP06" votes="1" />
+            <Precinct name="AP07A" votes="1" />
+            <Precinct name="AP07B" votes="1" />
+            <Precinct name="AP09A" votes="1" />
+            <Precinct name="AP09B" votes="1" />
+            <Precinct name="AP021" votes="1" />
+            <Precinct name="AP022" votes="1" />
+            <Precinct name="AP10" votes="1" />
+            <Precinct name="AP12A" votes="1" />
+            <Precinct name="AP12B" votes="1" />
+            <Precinct name="AP12C" votes="1" />
+            <Precinct name="AP13" votes="1" />
+            <Precinct name="AP14" votes="1" />
+            <Precinct name="JC01" votes="1" />
+            <Precinct name="JC02" votes="1" />
+            <Precinct name="JC03A" votes="1" />
+            <Precinct name="JC03B" votes="1" />
+            <Precinct name="JC04A" votes="1" />
+            <Precinct name="JC04B" votes="1" />
+            <Precinct name="JC05" votes="1" />
+            <Precinct name="JC06" votes="1" />
+            <Precinct name="JC07" votes="1" />
+            <Precinct name="JC08" votes="1" />
+            <Precinct name="JC09" votes="1" />
+            <Precinct name="JC10" votes="1" />
+            <Precinct name="JC11" votes="1" />
+            <Precinct name="JC12" votes="1" />
+            <Precinct name="JC13A" votes="1" />
+            <Precinct name="JC13B" votes="1" />
+            <Precinct name="JC14" votes="1" />
+            <Precinct name="JC15" votes="1" />
+            <Precinct name="JC16" votes="1" />
+            <Precinct name="JC18" votes="1" />
+            <Precinct name="JC19" votes="1" />
+            <Precinct name="ML011" votes="1" />
+            <Precinct name="ML012" votes="1" />
+            <Precinct name="ML01B" votes="1" />
+            <Precinct name="ML021" votes="1" />
+            <Precinct name="ML022" votes="1" />
+            <Precinct name="ML023" votes="1" />
+            <Precinct name="ML024" votes="1" />
+            <Precinct name="ML03" votes="1" />
+            <Precinct name="ML04A" votes="1" />
+            <Precinct name="ML04B" votes="1" />
+            <Precinct name="ML04C" votes="1" />
+            <Precinct name="ML05A" votes="1" />
+            <Precinct name="ML05B" votes="1" />
+            <Precinct name="ML05C" votes="1" />
+            <Precinct name="ML06A" votes="1" />
+            <Precinct name="ML06B" votes="1" />
+            <Precinct name="ML071" votes="1" />
+            <Precinct name="ML072" votes="1" />
+            <Precinct name="ML07A" votes="1" />
+            <Precinct name="MP01" votes="1" />
+            <Precinct name="RW01" votes="1" />
+            <Precinct name="RW02" votes="1" />
+            <Precinct name="RW03" votes="1" />
+            <Precinct name="RW04" votes="1" />
+            <Precinct name="RW05" votes="1" />
+            <Precinct name="RW06" votes="1" />
+            <Precinct name="RW07A" votes="1" />
+            <Precinct name="RW07B" votes="1" />
+            <Precinct name="RW08" votes="1" />
+            <Precinct name="RW09" votes="1" />
+            <Precinct name="RW10" votes="1" />
+            <Precinct name="RW11A" votes="1" />
+            <Precinct name="RW12" votes="1" />
+            <Precinct name="RW13" votes="1" />
+            <Precinct name="RW16" votes="1" />
+            <Precinct name="RW17" votes="1" />
+            <Precinct name="RW19" votes="1" />
+            <Precinct name="RW20" votes="1" />
+            <Precinct name="RW21" votes="1" />
+            <Precinct name="RW22A" votes="1" />
+            <Precinct name="SS01" votes="1" />
+            <Precinct name="SS02A" votes="1" />
+            <Precinct name="SS02B" votes="1" />
+            <Precinct name="SS03" votes="1" />
+            <Precinct name="SS04" votes="1" />
+            <Precinct name="SS05" votes="1" />
+            <Precinct name="SS06" votes="1" />
+            <Precinct name="SS07A" votes="1" />
+            <Precinct name="SS07B" votes="1" />
+            <Precinct name="SS07C" votes="1" />
+            <Precinct name="SS08A" votes="1" />
+            <Precinct name="SS08B" votes="1" />
+            <Precinct name="SS08C" votes="1" />
+            <Precinct name="SS08D" votes="1" />
+            <Precinct name="SS11A" votes="1" />
+            <Precinct name="SS11B" votes="1" />
+            <Precinct name="SS11C" votes="1" />
+            <Precinct name="SS12" votes="1" />
+            <Precinct name="SS15A" votes="1" />
+            <Precinct name="SS15B" votes="1" />
+            <Precinct name="SS16" votes="1" />
+            <Precinct name="SS17" votes="1" />
+            <Precinct name="SS18A" votes="1" />
+            <Precinct name="SS18B" votes="1" />
+            <Precinct name="SS19A" votes="1" />
+            <Precinct name="SS19B" votes="1" />
+            <Precinct name="SS20" votes="1" />
+            <Precinct name="SS22" votes="1" />
+            <Precinct name="SS25" votes="1" />
+            <Precinct name="SS26" votes="1" />
+            <Precinct name="SS29A" votes="1" />
+            <Precinct name="SS31" votes="1" />
+        </VoteType>
+        <Choice key="60" text="KAREN HANDEL (REP)" totalVotes="64900">
+            <VoteType name="Election Day" votes="24062">
+                <Precinct name="AP01A" votes="167" />
+                <Precinct name="AP01B" votes="28" />
+                <Precinct name="AP01C" votes="190" />
+                <Precinct name="AP01D" votes="55" />
+                <Precinct name="AP02B" votes="21" />
+                <Precinct name="AP03" votes="31" />
+                <Precinct name="AP04A" votes="177" />
+                <Precinct name="AP04B" votes="40" />
+                <Precinct name="AP05" votes="550" />
+                <Precinct name="AP06" votes="159" />
+                <Precinct name="AP07A" votes="355" />
+                <Precinct name="AP07B" votes="177" />
+                <Precinct name="AP09A" votes="339" />
+                <Precinct name="AP09B" votes="53" />
+                <Precinct name="AP021" votes="276" />
+                <Precinct name="AP022" votes="153" />
+                <Precinct name="AP10" votes="93" />
+                <Precinct name="AP12A" votes="41" />
+                <Precinct name="AP12B" votes="37" />
+                <Precinct name="AP12C" votes="93" />
+                <Precinct name="AP13" votes="215" />
+                <Precinct name="AP14" votes="327" />
+                <Precinct name="JC01" votes="396" />
+                <Precinct name="JC02" votes="186" />
+                <Precinct name="JC03A" votes="63" />
+                <Precinct name="JC03B" votes="133" />
+                <Precinct name="JC04A" votes="290" />
+                <Precinct name="JC04B" votes="11" />
+                <Precinct name="JC05" votes="161" />
+                <Precinct name="JC06" votes="322" />
+                <Precinct name="JC07" votes="347" />
+                <Precinct name="JC08" votes="208" />
+                <Precinct name="JC09" votes="247" />
+                <Precinct name="JC10" votes="202" />
+                <Precinct name="JC11" votes="422" />
+                <Precinct name="JC12" votes="421" />
+                <Precinct name="JC13A" votes="379" />
+                <Precinct name="JC13B" votes="47" />
+                <Precinct name="JC14" votes="300" />
+                <Precinct name="JC15" votes="75" />
+                <Precinct name="JC16" votes="338" />
+                <Precinct name="JC18" votes="312" />
+                <Precinct name="JC19" votes="345" />
+                <Precinct name="ML011" votes="228" />
+                <Precinct name="ML012" votes="45" />
+                <Precinct name="ML01B" votes="17" />
+                <Precinct name="ML021" votes="307" />
+                <Precinct name="ML022" votes="30" />
+                <Precinct name="ML023" votes="179" />
+                <Precinct name="ML024" votes="3" />
+                <Precinct name="ML03" votes="470" />
+                <Precinct name="ML04A" votes="200" />
+                <Precinct name="ML04B" votes="187" />
+                <Precinct name="ML04C" votes="12" />
+                <Precinct name="ML05A" votes="4" />
+                <Precinct name="ML05B" votes="41" />
+                <Precinct name="ML05C" votes="428" />
+                <Precinct name="ML06A" votes="83" />
+                <Precinct name="ML06B" votes="188" />
+                <Precinct name="ML071" votes="17" />
+                <Precinct name="ML072" votes="218" />
+                <Precinct name="ML07A" votes="133" />
+                <Precinct name="MP01" votes="105" />
+                <Precinct name="RW01" votes="608" />
+                <Precinct name="RW02" votes="465" />
+                <Precinct name="RW03" votes="366" />
+                <Precinct name="RW04" votes="202" />
+                <Precinct name="RW05" votes="105" />
+                <Precinct name="RW06" votes="355" />
+                <Precinct name="RW07A" votes="23" />
+                <Precinct name="RW07B" votes="24" />
+                <Precinct name="RW08" votes="321" />
+                <Precinct name="RW09" votes="798" />
+                <Precinct name="RW10" votes="504" />
+                <Precinct name="RW11A" votes="282" />
+                <Precinct name="RW12" votes="647" />
+                <Precinct name="RW13" votes="563" />
+                <Precinct name="RW16" votes="194" />
+                <Precinct name="RW17" votes="208" />
+                <Precinct name="RW19" votes="292" />
+                <Precinct name="RW20" votes="238" />
+                <Precinct name="RW21" votes="291" />
+                <Precinct name="RW22A" votes="204" />
+                <Precinct name="SS01" votes="631" />
+                <Precinct name="SS02A" votes="55" />
+                <Precinct name="SS02B" votes="47" />
+                <Precinct name="SS03" votes="185" />
+                <Precinct name="SS04" votes="300" />
+                <Precinct name="SS05" votes="323" />
+                <Precinct name="SS06" votes="258" />
+                <Precinct name="SS07A" votes="114" />
+                <Precinct name="SS07B" votes="63" />
+                <Precinct name="SS07C" votes="73" />
+                <Precinct name="SS08A" votes="102" />
+                <Precinct name="SS08B" votes="92" />
+                <Precinct name="SS08C" votes="48" />
+                <Precinct name="SS08D" votes="80" />
+                <Precinct name="SS11A" votes="396" />
+                <Precinct name="SS11B" votes="74" />
+                <Precinct name="SS11C" votes="10" />
+                <Precinct name="SS12" votes="425" />
+                <Precinct name="SS15A" votes="55" />
+                <Precinct name="SS15B" votes="96" />
+                <Precinct name="SS16" votes="494" />
+                <Precinct name="SS17" votes="416" />
+                <Precinct name="SS18A" votes="98" />
+                <Precinct name="SS18B" votes="39" />
+                <Precinct name="SS19A" votes="73" />
+                <Precinct name="SS19B" votes="76" />
+                <Precinct name="SS20" votes="79" />
+                <Precinct name="SS22" votes="273" />
+                <Precinct name="SS25" votes="261" />
+                <Precinct name="SS26" votes="74" />
+                <Precinct name="SS29A" votes="266" />
+                <Precinct name="SS31" votes="119" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="3698">
+                <Precinct name="AP01A" votes="32" />
+                <Precinct name="AP01B" votes="3" />
+                <Precinct name="AP01C" votes="45" />
+                <Precinct name="AP01D" votes="8" />
+                <Precinct name="AP02B" votes="22" />
+                <Precinct name="AP03" votes="1" />
+                <Precinct name="AP04A" votes="39" />
+                <Precinct name="AP04B" votes="5" />
+                <Precinct name="AP05" votes="58" />
+                <Precinct name="AP06" votes="21" />
+                <Precinct name="AP07A" votes="47" />
+                <Precinct name="AP07B" votes="14" />
+                <Precinct name="AP09A" votes="65" />
+                <Precinct name="AP09B" votes="3" />
+                <Precinct name="AP021" votes="48" />
+                <Precinct name="AP022" votes="30" />
+                <Precinct name="AP10" votes="9" />
+                <Precinct name="AP12A" votes="2" />
+                <Precinct name="AP12B" votes="2" />
+                <Precinct name="AP12C" votes="29" />
+                <Precinct name="AP13" votes="42" />
+                <Precinct name="AP14" votes="43" />
+                <Precinct name="JC01" votes="59" />
+                <Precinct name="JC02" votes="32" />
+                <Precinct name="JC03A" votes="4" />
+                <Precinct name="JC03B" votes="11" />
+                <Precinct name="JC04A" votes="44" />
+                <Precinct name="JC04B" votes="2" />
+                <Precinct name="JC05" votes="7" />
+                <Precinct name="JC06" votes="46" />
+                <Precinct name="JC07" votes="45" />
+                <Precinct name="JC08" votes="14" />
+                <Precinct name="JC09" votes="26" />
+                <Precinct name="JC10" votes="28" />
+                <Precinct name="JC11" votes="35" />
+                <Precinct name="JC12" votes="98" />
+                <Precinct name="JC13A" votes="66" />
+                <Precinct name="JC13B" votes="18" />
+                <Precinct name="JC14" votes="56" />
+                <Precinct name="JC15" votes="6" />
+                <Precinct name="JC16" votes="30" />
+                <Precinct name="JC18" votes="48" />
+                <Precinct name="JC19" votes="53" />
+                <Precinct name="ML011" votes="24" />
+                <Precinct name="ML012" votes="4" />
+                <Precinct name="ML01B" votes="0" />
+                <Precinct name="ML021" votes="34" />
+                <Precinct name="ML022" votes="3" />
+                <Precinct name="ML023" votes="15" />
+                <Precinct name="ML024" votes="0" />
+                <Precinct name="ML03" votes="69" />
+                <Precinct name="ML04A" votes="24" />
+                <Precinct name="ML04B" votes="14" />
+                <Precinct name="ML04C" votes="2" />
+                <Precinct name="ML05A" votes="0" />
+                <Precinct name="ML05B" votes="4" />
+                <Precinct name="ML05C" votes="57" />
+                <Precinct name="ML06A" votes="10" />
+                <Precinct name="ML06B" votes="25" />
+                <Precinct name="ML071" votes="0" />
+                <Precinct name="ML072" votes="28" />
+                <Precinct name="ML07A" votes="7" />
+                <Precinct name="MP01" votes="7" />
+                <Precinct name="RW01" votes="154" />
+                <Precinct name="RW02" votes="69" />
+                <Precinct name="RW03" votes="54" />
+                <Precinct name="RW04" votes="31" />
+                <Precinct name="RW05" votes="14" />
+                <Precinct name="RW06" votes="52" />
+                <Precinct name="RW07A" votes="2" />
+                <Precinct name="RW07B" votes="2" />
+                <Precinct name="RW08" votes="52" />
+                <Precinct name="RW09" votes="198" />
+                <Precinct name="RW10" votes="78" />
+                <Precinct name="RW11A" votes="26" />
+                <Precinct name="RW12" votes="147" />
+                <Precinct name="RW13" votes="38" />
+                <Precinct name="RW16" votes="48" />
+                <Precinct name="RW17" votes="29" />
+                <Precinct name="RW19" votes="62" />
+                <Precinct name="RW20" votes="30" />
+                <Precinct name="RW21" votes="48" />
+                <Precinct name="RW22A" votes="21" />
+                <Precinct name="SS01" votes="90" />
+                <Precinct name="SS02A" votes="20" />
+                <Precinct name="SS02B" votes="11" />
+                <Precinct name="SS03" votes="20" />
+                <Precinct name="SS04" votes="17" />
+                <Precinct name="SS05" votes="28" />
+                <Precinct name="SS06" votes="37" />
+                <Precinct name="SS07A" votes="50" />
+                <Precinct name="SS07B" votes="3" />
+                <Precinct name="SS07C" votes="31" />
+                <Precinct name="SS08A" votes="14" />
+                <Precinct name="SS08B" votes="10" />
+                <Precinct name="SS08C" votes="2" />
+                <Precinct name="SS08D" votes="19" />
+                <Precinct name="SS11A" votes="51" />
+                <Precinct name="SS11B" votes="9" />
+                <Precinct name="SS11C" votes="0" />
+                <Precinct name="SS12" votes="77" />
+                <Precinct name="SS15A" votes="10" />
+                <Precinct name="SS15B" votes="13" />
+                <Precinct name="SS16" votes="74" />
+                <Precinct name="SS17" votes="88" />
+                <Precinct name="SS18A" votes="11" />
+                <Precinct name="SS18B" votes="3" />
+                <Precinct name="SS19A" votes="23" />
+                <Precinct name="SS19B" votes="14" />
+                <Precinct name="SS20" votes="24" />
+                <Precinct name="SS22" votes="40" />
+                <Precinct name="SS25" votes="51" />
+                <Precinct name="SS26" votes="11" />
+                <Precinct name="SS29A" votes="53" />
+                <Precinct name="SS31" votes="16" />
+            </VoteType>
+            <VoteType name="Advance in Person 1" votes="17755">
+                <Precinct name="AP01A" votes="29" />
+                <Precinct name="AP01B" votes="6" />
+                <Precinct name="AP01C" votes="65" />
+                <Precinct name="AP01D" votes="20" />
+                <Precinct name="AP02B" votes="4" />
+                <Precinct name="AP03" votes="5" />
+                <Precinct name="AP04A" votes="389" />
+                <Precinct name="AP04B" votes="83" />
+                <Precinct name="AP05" votes="24" />
+                <Precinct name="AP06" votes="346" />
+                <Precinct name="AP07A" votes="48" />
+                <Precinct name="AP07B" votes="119" />
+                <Precinct name="AP09A" votes="18" />
+                <Precinct name="AP09B" votes="1" />
+                <Precinct name="AP021" votes="168" />
+                <Precinct name="AP022" votes="63" />
+                <Precinct name="AP10" votes="36" />
+                <Precinct name="AP12A" votes="5" />
+                <Precinct name="AP12B" votes="4" />
+                <Precinct name="AP12C" votes="14" />
+                <Precinct name="AP13" votes="14" />
+                <Precinct name="AP14" votes="24" />
+                <Precinct name="JC01" votes="5" />
+                <Precinct name="JC02" votes="4" />
+                <Precinct name="JC03A" votes="2" />
+                <Precinct name="JC03B" votes="1" />
+                <Precinct name="JC04A" votes="11" />
+                <Precinct name="JC04B" votes="0" />
+                <Precinct name="JC05" votes="0" />
+                <Precinct name="JC06" votes="6" />
+                <Precinct name="JC07" votes="6" />
+                <Precinct name="JC08" votes="3" />
+                <Precinct name="JC09" votes="11" />
+                <Precinct name="JC10" votes="6" />
+                <Precinct name="JC11" votes="27" />
+                <Precinct name="JC12" votes="35" />
+                <Precinct name="JC13A" votes="289" />
+                <Precinct name="JC13B" votes="35" />
+                <Precinct name="JC14" votes="59" />
+                <Precinct name="JC15" votes="9" />
+                <Precinct name="JC16" votes="214" />
+                <Precinct name="JC18" votes="521" />
+                <Precinct name="JC19" votes="569" />
+                <Precinct name="ML011" votes="570" />
+                <Precinct name="ML012" votes="188" />
+                <Precinct name="ML01B" votes="21" />
+                <Precinct name="ML021" votes="405" />
+                <Precinct name="ML022" votes="57" />
+                <Precinct name="ML023" votes="406" />
+                <Precinct name="ML024" votes="26" />
+                <Precinct name="ML03" votes="836" />
+                <Precinct name="ML04A" votes="166" />
+                <Precinct name="ML04B" votes="200" />
+                <Precinct name="ML04C" votes="11" />
+                <Precinct name="ML05A" votes="1" />
+                <Precinct name="ML05B" votes="62" />
+                <Precinct name="ML05C" votes="294" />
+                <Precinct name="ML06A" votes="20" />
+                <Precinct name="ML06B" votes="76" />
+                <Precinct name="ML071" votes="18" />
+                <Precinct name="ML072" votes="115" />
+                <Precinct name="ML07A" votes="97" />
+                <Precinct name="MP01" votes="12" />
+                <Precinct name="RW01" votes="86" />
+                <Precinct name="RW02" votes="51" />
+                <Precinct name="RW03" votes="79" />
+                <Precinct name="RW04" votes="376" />
+                <Precinct name="RW05" votes="38" />
+                <Precinct name="RW06" votes="337" />
+                <Precinct name="RW07A" votes="13" />
+                <Precinct name="RW07B" votes="1" />
+                <Precinct name="RW08" votes="38" />
+                <Precinct name="RW09" votes="565" />
+                <Precinct name="RW10" votes="33" />
+                <Precinct name="RW11A" votes="46" />
+                <Precinct name="RW12" votes="747" />
+                <Precinct name="RW13" votes="507" />
+                <Precinct name="RW16" votes="124" />
+                <Precinct name="RW17" votes="289" />
+                <Precinct name="RW19" votes="403" />
+                <Precinct name="RW20" votes="644" />
+                <Precinct name="RW21" votes="879" />
+                <Precinct name="RW22A" votes="429" />
+                <Precinct name="SS01" votes="469" />
+                <Precinct name="SS02A" votes="186" />
+                <Precinct name="SS02B" votes="80" />
+                <Precinct name="SS03" votes="163" />
+                <Precinct name="SS04" votes="223" />
+                <Precinct name="SS05" votes="272" />
+                <Precinct name="SS06" votes="179" />
+                <Precinct name="SS07A" votes="126" />
+                <Precinct name="SS07B" votes="45" />
+                <Precinct name="SS07C" votes="66" />
+                <Precinct name="SS08A" votes="56" />
+                <Precinct name="SS08B" votes="86" />
+                <Precinct name="SS08C" votes="31" />
+                <Precinct name="SS08D" votes="76" />
+                <Precinct name="SS11A" votes="214" />
+                <Precinct name="SS11B" votes="59" />
+                <Precinct name="SS11C" votes="6" />
+                <Precinct name="SS12" votes="237" />
+                <Precinct name="SS15A" votes="41" />
+                <Precinct name="SS15B" votes="85" />
+                <Precinct name="SS16" votes="236" />
+                <Precinct name="SS17" votes="490" />
+                <Precinct name="SS18A" votes="106" />
+                <Precinct name="SS18B" votes="43" />
+                <Precinct name="SS19A" votes="227" />
+                <Precinct name="SS19B" votes="202" />
+                <Precinct name="SS20" votes="201" />
+                <Precinct name="SS22" votes="223" />
+                <Precinct name="SS25" votes="249" />
+                <Precinct name="SS26" votes="125" />
+                <Precinct name="SS29A" votes="242" />
+                <Precinct name="SS31" votes="147" />
+            </VoteType>
+            <VoteType name="Advance in Person 2" votes="19385">
+                <Precinct name="AP01A" votes="391" />
+                <Precinct name="AP01B" votes="86" />
+                <Precinct name="AP01C" votes="393" />
+                <Precinct name="AP01D" votes="76" />
+                <Precinct name="AP02B" votes="42" />
+                <Precinct name="AP03" votes="15" />
+                <Precinct name="AP04A" votes="33" />
+                <Precinct name="AP04B" votes="4" />
+                <Precinct name="AP05" votes="867" />
+                <Precinct name="AP06" votes="111" />
+                <Precinct name="AP07A" votes="417" />
+                <Precinct name="AP07B" votes="217" />
+                <Precinct name="AP09A" votes="696" />
+                <Precinct name="AP09B" votes="120" />
+                <Precinct name="AP021" votes="353" />
+                <Precinct name="AP022" votes="248" />
+                <Precinct name="AP10" votes="197" />
+                <Precinct name="AP12A" votes="60" />
+                <Precinct name="AP12B" votes="28" />
+                <Precinct name="AP12C" votes="253" />
+                <Precinct name="AP13" votes="383" />
+                <Precinct name="AP14" votes="552" />
+                <Precinct name="JC01" votes="557" />
+                <Precinct name="JC02" votes="263" />
+                <Precinct name="JC03A" votes="95" />
+                <Precinct name="JC03B" votes="132" />
+                <Precinct name="JC04A" votes="731" />
+                <Precinct name="JC04B" votes="37" />
+                <Precinct name="JC05" votes="332" />
+                <Precinct name="JC06" votes="372" />
+                <Precinct name="JC07" votes="563" />
+                <Precinct name="JC08" votes="541" />
+                <Precinct name="JC09" votes="361" />
+                <Precinct name="JC10" votes="248" />
+                <Precinct name="JC11" votes="513" />
+                <Precinct name="JC12" votes="507" />
+                <Precinct name="JC13A" votes="148" />
+                <Precinct name="JC13B" votes="34" />
+                <Precinct name="JC14" votes="401" />
+                <Precinct name="JC15" votes="58" />
+                <Precinct name="JC16" votes="170" />
+                <Precinct name="JC18" votes="98" />
+                <Precinct name="JC19" votes="89" />
+                <Precinct name="ML011" votes="8" />
+                <Precinct name="ML012" votes="4" />
+                <Precinct name="ML01B" votes="1" />
+                <Precinct name="ML021" votes="40" />
+                <Precinct name="ML022" votes="1" />
+                <Precinct name="ML023" votes="24" />
+                <Precinct name="ML024" votes="5" />
+                <Precinct name="ML03" votes="193" />
+                <Precinct name="ML04A" votes="219" />
+                <Precinct name="ML04B" votes="102" />
+                <Precinct name="ML04C" votes="8" />
+                <Precinct name="ML05A" votes="6" />
+                <Precinct name="ML05B" votes="38" />
+                <Precinct name="ML05C" votes="347" />
+                <Precinct name="ML06A" votes="88" />
+                <Precinct name="ML06B" votes="217" />
+                <Precinct name="ML071" votes="4" />
+                <Precinct name="ML072" votes="66" />
+                <Precinct name="ML07A" votes="29" />
+                <Precinct name="MP01" votes="15" />
+                <Precinct name="RW01" votes="953" />
+                <Precinct name="RW02" votes="720" />
+                <Precinct name="RW03" votes="479" />
+                <Precinct name="RW04" votes="20" />
+                <Precinct name="RW05" votes="128" />
+                <Precinct name="RW06" votes="36" />
+                <Precinct name="RW07A" votes="13" />
+                <Precinct name="RW07B" votes="20" />
+                <Precinct name="RW08" votes="453" />
+                <Precinct name="RW09" votes="929" />
+                <Precinct name="RW10" votes="669" />
+                <Precinct name="RW11A" votes="326" />
+                <Precinct name="RW12" votes="709" />
+                <Precinct name="RW13" votes="108" />
+                <Precinct name="RW16" votes="298" />
+                <Precinct name="RW17" votes="49" />
+                <Precinct name="RW19" votes="61" />
+                <Precinct name="RW20" votes="5" />
+                <Precinct name="RW21" votes="15" />
+                <Precinct name="RW22A" votes="17" />
+                <Precinct name="SS01" votes="12" />
+                <Precinct name="SS02A" votes="1" />
+                <Precinct name="SS02B" votes="3" />
+                <Precinct name="SS03" votes="2" />
+                <Precinct name="SS04" votes="1" />
+                <Precinct name="SS05" votes="4" />
+                <Precinct name="SS06" votes="5" />
+                <Precinct name="SS07A" votes="3" />
+                <Precinct name="SS07B" votes="1" />
+                <Precinct name="SS07C" votes="1" />
+                <Precinct name="SS08A" votes="3" />
+                <Precinct name="SS08B" votes="3" />
+                <Precinct name="SS08C" votes="4" />
+                <Precinct name="SS08D" votes="2" />
+                <Precinct name="SS11A" votes="3" />
+                <Precinct name="SS11B" votes="2" />
+                <Precinct name="SS11C" votes="0" />
+                <Precinct name="SS12" votes="4" />
+                <Precinct name="SS15A" votes="6" />
+                <Precinct name="SS15B" votes="25" />
+                <Precinct name="SS16" votes="4" />
+                <Precinct name="SS17" votes="29" />
+                <Precinct name="SS18A" votes="1" />
+                <Precinct name="SS18B" votes="1" />
+                <Precinct name="SS19A" votes="2" />
+                <Precinct name="SS19B" votes="1" />
+                <Precinct name="SS20" votes="3" />
+                <Precinct name="SS22" votes="21" />
+                <Precinct name="SS25" votes="9" />
+                <Precinct name="SS26" votes="7" />
+                <Precinct name="SS29A" votes="5" />
+                <Precinct name="SS31" votes="2" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="AP01A" votes="0" />
+                <Precinct name="AP01B" votes="0" />
+                <Precinct name="AP01C" votes="0" />
+                <Precinct name="AP01D" votes="0" />
+                <Precinct name="AP02B" votes="0" />
+                <Precinct name="AP03" votes="0" />
+                <Precinct name="AP04A" votes="0" />
+                <Precinct name="AP04B" votes="0" />
+                <Precinct name="AP05" votes="0" />
+                <Precinct name="AP06" votes="0" />
+                <Precinct name="AP07A" votes="0" />
+                <Precinct name="AP07B" votes="0" />
+                <Precinct name="AP09A" votes="0" />
+                <Precinct name="AP09B" votes="0" />
+                <Precinct name="AP021" votes="0" />
+                <Precinct name="AP022" votes="0" />
+                <Precinct name="AP10" votes="0" />
+                <Precinct name="AP12A" votes="0" />
+                <Precinct name="AP12B" votes="0" />
+                <Precinct name="AP12C" votes="0" />
+                <Precinct name="AP13" votes="0" />
+                <Precinct name="AP14" votes="0" />
+                <Precinct name="JC01" votes="0" />
+                <Precinct name="JC02" votes="0" />
+                <Precinct name="JC03A" votes="0" />
+                <Precinct name="JC03B" votes="0" />
+                <Precinct name="JC04A" votes="0" />
+                <Precinct name="JC04B" votes="0" />
+                <Precinct name="JC05" votes="0" />
+                <Precinct name="JC06" votes="0" />
+                <Precinct name="JC07" votes="0" />
+                <Precinct name="JC08" votes="0" />
+                <Precinct name="JC09" votes="0" />
+                <Precinct name="JC10" votes="0" />
+                <Precinct name="JC11" votes="0" />
+                <Precinct name="JC12" votes="0" />
+                <Precinct name="JC13A" votes="0" />
+                <Precinct name="JC13B" votes="0" />
+                <Precinct name="JC14" votes="0" />
+                <Precinct name="JC15" votes="0" />
+                <Precinct name="JC16" votes="0" />
+                <Precinct name="JC18" votes="0" />
+                <Precinct name="JC19" votes="0" />
+                <Precinct name="ML011" votes="0" />
+                <Precinct name="ML012" votes="0" />
+                <Precinct name="ML01B" votes="0" />
+                <Precinct name="ML021" votes="0" />
+                <Precinct name="ML022" votes="0" />
+                <Precinct name="ML023" votes="0" />
+                <Precinct name="ML024" votes="0" />
+                <Precinct name="ML03" votes="0" />
+                <Precinct name="ML04A" votes="0" />
+                <Precinct name="ML04B" votes="0" />
+                <Precinct name="ML04C" votes="0" />
+                <Precinct name="ML05A" votes="0" />
+                <Precinct name="ML05B" votes="0" />
+                <Precinct name="ML05C" votes="0" />
+                <Precinct name="ML06A" votes="0" />
+                <Precinct name="ML06B" votes="0" />
+                <Precinct name="ML071" votes="0" />
+                <Precinct name="ML072" votes="0" />
+                <Precinct name="ML07A" votes="0" />
+                <Precinct name="MP01" votes="0" />
+                <Precinct name="RW01" votes="0" />
+                <Precinct name="RW02" votes="0" />
+                <Precinct name="RW03" votes="0" />
+                <Precinct name="RW04" votes="0" />
+                <Precinct name="RW05" votes="0" />
+                <Precinct name="RW06" votes="0" />
+                <Precinct name="RW07A" votes="0" />
+                <Precinct name="RW07B" votes="0" />
+                <Precinct name="RW08" votes="0" />
+                <Precinct name="RW09" votes="0" />
+                <Precinct name="RW10" votes="0" />
+                <Precinct name="RW11A" votes="0" />
+                <Precinct name="RW12" votes="0" />
+                <Precinct name="RW13" votes="0" />
+                <Precinct name="RW16" votes="0" />
+                <Precinct name="RW17" votes="0" />
+                <Precinct name="RW19" votes="0" />
+                <Precinct name="RW20" votes="0" />
+                <Precinct name="RW21" votes="0" />
+                <Precinct name="RW22A" votes="0" />
+                <Precinct name="SS01" votes="0" />
+                <Precinct name="SS02A" votes="0" />
+                <Precinct name="SS02B" votes="0" />
+                <Precinct name="SS03" votes="0" />
+                <Precinct name="SS04" votes="0" />
+                <Precinct name="SS05" votes="0" />
+                <Precinct name="SS06" votes="0" />
+                <Precinct name="SS07A" votes="0" />
+                <Precinct name="SS07B" votes="0" />
+                <Precinct name="SS07C" votes="0" />
+                <Precinct name="SS08A" votes="0" />
+                <Precinct name="SS08B" votes="0" />
+                <Precinct name="SS08C" votes="0" />
+                <Precinct name="SS08D" votes="0" />
+                <Precinct name="SS11A" votes="0" />
+                <Precinct name="SS11B" votes="0" />
+                <Precinct name="SS11C" votes="0" />
+                <Precinct name="SS12" votes="0" />
+                <Precinct name="SS15A" votes="0" />
+                <Precinct name="SS15B" votes="0" />
+                <Precinct name="SS16" votes="0" />
+                <Precinct name="SS17" votes="0" />
+                <Precinct name="SS18A" votes="0" />
+                <Precinct name="SS18B" votes="0" />
+                <Precinct name="SS19A" votes="0" />
+                <Precinct name="SS19B" votes="0" />
+                <Precinct name="SS20" votes="0" />
+                <Precinct name="SS22" votes="0" />
+                <Precinct name="SS25" votes="0" />
+                <Precinct name="SS26" votes="0" />
+                <Precinct name="SS29A" votes="0" />
+                <Precinct name="SS31" votes="0" />
+            </VoteType>
+        </Choice>
+        <Choice key="140" text="JON OSSOFF (DEM)" totalVotes="58213">
+            <VoteType name="Election Day" votes="17321">
+                <Precinct name="AP01A" votes="112" />
+                <Precinct name="AP01B" votes="46" />
+                <Precinct name="AP01C" votes="113" />
+                <Precinct name="AP01D" votes="64" />
+                <Precinct name="AP02B" votes="21" />
+                <Precinct name="AP03" votes="87" />
+                <Precinct name="AP04A" votes="92" />
+                <Precinct name="AP04B" votes="27" />
+                <Precinct name="AP05" votes="282" />
+                <Precinct name="AP06" votes="79" />
+                <Precinct name="AP07A" votes="221" />
+                <Precinct name="AP07B" votes="105" />
+                <Precinct name="AP09A" votes="299" />
+                <Precinct name="AP09B" votes="61" />
+                <Precinct name="AP021" votes="176" />
+                <Precinct name="AP022" votes="154" />
+                <Precinct name="AP10" votes="32" />
+                <Precinct name="AP12A" votes="53" />
+                <Precinct name="AP12B" votes="68" />
+                <Precinct name="AP12C" votes="85" />
+                <Precinct name="AP13" votes="132" />
+                <Precinct name="AP14" votes="228" />
+                <Precinct name="JC01" votes="410" />
+                <Precinct name="JC02" votes="169" />
+                <Precinct name="JC03A" votes="35" />
+                <Precinct name="JC03B" votes="147" />
+                <Precinct name="JC04A" votes="248" />
+                <Precinct name="JC04B" votes="11" />
+                <Precinct name="JC05" votes="123" />
+                <Precinct name="JC06" votes="194" />
+                <Precinct name="JC07" votes="339" />
+                <Precinct name="JC08" votes="177" />
+                <Precinct name="JC09" votes="261" />
+                <Precinct name="JC10" votes="223" />
+                <Precinct name="JC11" votes="209" />
+                <Precinct name="JC12" votes="164" />
+                <Precinct name="JC13A" votes="142" />
+                <Precinct name="JC13B" votes="18" />
+                <Precinct name="JC14" votes="174" />
+                <Precinct name="JC15" votes="106" />
+                <Precinct name="JC16" votes="237" />
+                <Precinct name="JC18" votes="131" />
+                <Precinct name="JC19" votes="265" />
+                <Precinct name="ML011" votes="100" />
+                <Precinct name="ML012" votes="20" />
+                <Precinct name="ML01B" votes="5" />
+                <Precinct name="ML021" votes="69" />
+                <Precinct name="ML022" votes="9" />
+                <Precinct name="ML023" votes="37" />
+                <Precinct name="ML024" votes="5" />
+                <Precinct name="ML03" votes="135" />
+                <Precinct name="ML04A" votes="89" />
+                <Precinct name="ML04B" votes="54" />
+                <Precinct name="ML04C" votes="2" />
+                <Precinct name="ML05A" votes="4" />
+                <Precinct name="ML05B" votes="23" />
+                <Precinct name="ML05C" votes="333" />
+                <Precinct name="ML06A" votes="194" />
+                <Precinct name="ML06B" votes="263" />
+                <Precinct name="ML071" votes="7" />
+                <Precinct name="ML072" votes="74" />
+                <Precinct name="ML07A" votes="42" />
+                <Precinct name="MP01" votes="90" />
+                <Precinct name="RW01" votes="332" />
+                <Precinct name="RW02" votes="304" />
+                <Precinct name="RW03" votes="354" />
+                <Precinct name="RW04" votes="115" />
+                <Precinct name="RW05" votes="204" />
+                <Precinct name="RW06" votes="288" />
+                <Precinct name="RW07A" votes="178" />
+                <Precinct name="RW07B" votes="68" />
+                <Precinct name="RW08" votes="139" />
+                <Precinct name="RW09" votes="268" />
+                <Precinct name="RW10" votes="186" />
+                <Precinct name="RW11A" votes="216" />
+                <Precinct name="RW12" votes="294" />
+                <Precinct name="RW13" votes="358" />
+                <Precinct name="RW16" votes="111" />
+                <Precinct name="RW17" votes="225" />
+                <Precinct name="RW19" votes="114" />
+                <Precinct name="RW20" votes="109" />
+                <Precinct name="RW21" votes="143" />
+                <Precinct name="RW22A" votes="273" />
+                <Precinct name="SS01" votes="241" />
+                <Precinct name="SS02A" votes="73" />
+                <Precinct name="SS02B" votes="118" />
+                <Precinct name="SS03" votes="138" />
+                <Precinct name="SS04" votes="335" />
+                <Precinct name="SS05" votes="219" />
+                <Precinct name="SS06" votes="126" />
+                <Precinct name="SS07A" votes="69" />
+                <Precinct name="SS07B" votes="57" />
+                <Precinct name="SS07C" votes="63" />
+                <Precinct name="SS08A" votes="153" />
+                <Precinct name="SS08B" votes="64" />
+                <Precinct name="SS08C" votes="79" />
+                <Precinct name="SS08D" votes="116" />
+                <Precinct name="SS11A" votes="443" />
+                <Precinct name="SS11B" votes="145" />
+                <Precinct name="SS11C" votes="35" />
+                <Precinct name="SS12" votes="257" />
+                <Precinct name="SS15A" votes="229" />
+                <Precinct name="SS15B" votes="191" />
+                <Precinct name="SS16" votes="247" />
+                <Precinct name="SS17" votes="225" />
+                <Precinct name="SS18A" votes="51" />
+                <Precinct name="SS18B" votes="22" />
+                <Precinct name="SS19A" votes="218" />
+                <Precinct name="SS19B" votes="142" />
+                <Precinct name="SS20" votes="145" />
+                <Precinct name="SS22" votes="227" />
+                <Precinct name="SS25" votes="106" />
+                <Precinct name="SS26" votes="302" />
+                <Precinct name="SS29A" votes="254" />
+                <Precinct name="SS31" votes="77" />
+            </VoteType>
+            <VoteType name="Absentee by Mail" votes="5781">
+                <Precinct name="AP01A" votes="68" />
+                <Precinct name="AP01B" votes="16" />
+                <Precinct name="AP01C" votes="54" />
+                <Precinct name="AP01D" votes="23" />
+                <Precinct name="AP02B" votes="28" />
+                <Precinct name="AP03" votes="15" />
+                <Precinct name="AP04A" votes="41" />
+                <Precinct name="AP04B" votes="11" />
+                <Precinct name="AP05" votes="95" />
+                <Precinct name="AP06" votes="51" />
+                <Precinct name="AP07A" votes="87" />
+                <Precinct name="AP07B" votes="29" />
+                <Precinct name="AP09A" votes="140" />
+                <Precinct name="AP09B" votes="19" />
+                <Precinct name="AP021" votes="38" />
+                <Precinct name="AP022" votes="61" />
+                <Precinct name="AP10" votes="16" />
+                <Precinct name="AP12A" votes="14" />
+                <Precinct name="AP12B" votes="17" />
+                <Precinct name="AP12C" votes="32" />
+                <Precinct name="AP13" votes="75" />
+                <Precinct name="AP14" votes="97" />
+                <Precinct name="JC01" votes="181" />
+                <Precinct name="JC02" votes="62" />
+                <Precinct name="JC03A" votes="8" />
+                <Precinct name="JC03B" votes="17" />
+                <Precinct name="JC04A" votes="77" />
+                <Precinct name="JC04B" votes="8" />
+                <Precinct name="JC05" votes="30" />
+                <Precinct name="JC06" votes="50" />
+                <Precinct name="JC07" votes="106" />
+                <Precinct name="JC08" votes="54" />
+                <Precinct name="JC09" votes="62" />
+                <Precinct name="JC10" votes="45" />
+                <Precinct name="JC11" votes="89" />
+                <Precinct name="JC12" votes="68" />
+                <Precinct name="JC13A" votes="26" />
+                <Precinct name="JC13B" votes="0" />
+                <Precinct name="JC14" votes="52" />
+                <Precinct name="JC15" votes="18" />
+                <Precinct name="JC16" votes="55" />
+                <Precinct name="JC18" votes="51" />
+                <Precinct name="JC19" votes="102" />
+                <Precinct name="ML011" votes="40" />
+                <Precinct name="ML012" votes="3" />
+                <Precinct name="ML01B" votes="3" />
+                <Precinct name="ML021" votes="22" />
+                <Precinct name="ML022" votes="6" />
+                <Precinct name="ML023" votes="7" />
+                <Precinct name="ML024" votes="0" />
+                <Precinct name="ML03" votes="38" />
+                <Precinct name="ML04A" votes="28" />
+                <Precinct name="ML04B" votes="28" />
+                <Precinct name="ML04C" votes="0" />
+                <Precinct name="ML05A" votes="3" />
+                <Precinct name="ML05B" votes="16" />
+                <Precinct name="ML05C" votes="68" />
+                <Precinct name="ML06A" votes="46" />
+                <Precinct name="ML06B" votes="38" />
+                <Precinct name="ML071" votes="0" />
+                <Precinct name="ML072" votes="20" />
+                <Precinct name="ML07A" votes="3" />
+                <Precinct name="MP01" votes="14" />
+                <Precinct name="RW01" votes="140" />
+                <Precinct name="RW02" votes="138" />
+                <Precinct name="RW03" votes="101" />
+                <Precinct name="RW04" votes="73" />
+                <Precinct name="RW05" votes="52" />
+                <Precinct name="RW06" votes="75" />
+                <Precinct name="RW07A" votes="14" />
+                <Precinct name="RW07B" votes="3" />
+                <Precinct name="RW08" votes="56" />
+                <Precinct name="RW09" votes="189" />
+                <Precinct name="RW10" votes="78" />
+                <Precinct name="RW11A" votes="88" />
+                <Precinct name="RW12" votes="134" />
+                <Precinct name="RW13" votes="77" />
+                <Precinct name="RW16" votes="50" />
+                <Precinct name="RW17" votes="68" />
+                <Precinct name="RW19" votes="80" />
+                <Precinct name="RW20" votes="28" />
+                <Precinct name="RW21" votes="49" />
+                <Precinct name="RW22A" votes="53" />
+                <Precinct name="SS01" votes="104" />
+                <Precinct name="SS02A" votes="36" />
+                <Precinct name="SS02B" votes="18" />
+                <Precinct name="SS03" votes="36" />
+                <Precinct name="SS04" votes="90" />
+                <Precinct name="SS05" votes="66" />
+                <Precinct name="SS06" votes="70" />
+                <Precinct name="SS07A" votes="42" />
+                <Precinct name="SS07B" votes="28" />
+                <Precinct name="SS07C" votes="51" />
+                <Precinct name="SS08A" votes="26" />
+                <Precinct name="SS08B" votes="21" />
+                <Precinct name="SS08C" votes="20" />
+                <Precinct name="SS08D" votes="50" />
+                <Precinct name="SS11A" votes="79" />
+                <Precinct name="SS11B" votes="23" />
+                <Precinct name="SS11C" votes="1" />
+                <Precinct name="SS12" votes="144" />
+                <Precinct name="SS15A" votes="55" />
+                <Precinct name="SS15B" votes="42" />
+                <Precinct name="SS16" votes="72" />
+                <Precinct name="SS17" votes="128" />
+                <Precinct name="SS18A" votes="14" />
+                <Precinct name="SS18B" votes="3" />
+                <Precinct name="SS19A" votes="44" />
+                <Precinct name="SS19B" votes="46" />
+                <Precinct name="SS20" votes="43" />
+                <Precinct name="SS22" votes="102" />
+                <Precinct name="SS25" votes="47" />
+                <Precinct name="SS26" votes="37" />
+                <Precinct name="SS29A" votes="62" />
+                <Precinct name="SS31" votes="64" />
+            </VoteType>
+            <VoteType name="Advance in Person 1" votes="17493">
+                <Precinct name="AP01A" votes="19" />
+                <Precinct name="AP01B" votes="15" />
+                <Precinct name="AP01C" votes="83" />
+                <Precinct name="AP01D" votes="28" />
+                <Precinct name="AP02B" votes="6" />
+                <Precinct name="AP03" votes="16" />
+                <Precinct name="AP04A" votes="242" />
+                <Precinct name="AP04B" votes="75" />
+                <Precinct name="AP05" votes="24" />
+                <Precinct name="AP06" votes="208" />
+                <Precinct name="AP07A" votes="58" />
+                <Precinct name="AP07B" votes="78" />
+                <Precinct name="AP09A" votes="26" />
+                <Precinct name="AP09B" votes="4" />
+                <Precinct name="AP021" votes="189" />
+                <Precinct name="AP022" votes="85" />
+                <Precinct name="AP10" votes="34" />
+                <Precinct name="AP12A" votes="9" />
+                <Precinct name="AP12B" votes="5" />
+                <Precinct name="AP12C" votes="6" />
+                <Precinct name="AP13" votes="22" />
+                <Precinct name="AP14" votes="38" />
+                <Precinct name="JC01" votes="17" />
+                <Precinct name="JC02" votes="5" />
+                <Precinct name="JC03A" votes="2" />
+                <Precinct name="JC03B" votes="1" />
+                <Precinct name="JC04A" votes="14" />
+                <Precinct name="JC04B" votes="1" />
+                <Precinct name="JC05" votes="4" />
+                <Precinct name="JC06" votes="11" />
+                <Precinct name="JC07" votes="18" />
+                <Precinct name="JC08" votes="4" />
+                <Precinct name="JC09" votes="14" />
+                <Precinct name="JC10" votes="18" />
+                <Precinct name="JC11" votes="35" />
+                <Precinct name="JC12" votes="24" />
+                <Precinct name="JC13A" votes="166" />
+                <Precinct name="JC13B" votes="7" />
+                <Precinct name="JC14" votes="65" />
+                <Precinct name="JC15" votes="11" />
+                <Precinct name="JC16" votes="236" />
+                <Precinct name="JC18" votes="471" />
+                <Precinct name="JC19" votes="587" />
+                <Precinct name="ML011" votes="418" />
+                <Precinct name="ML012" votes="74" />
+                <Precinct name="ML01B" votes="15" />
+                <Precinct name="ML021" votes="139" />
+                <Precinct name="ML022" votes="18" />
+                <Precinct name="ML023" votes="156" />
+                <Precinct name="ML024" votes="6" />
+                <Precinct name="ML03" votes="336" />
+                <Precinct name="ML04A" votes="92" />
+                <Precinct name="ML04B" votes="78" />
+                <Precinct name="ML04C" votes="10" />
+                <Precinct name="ML05A" votes="0" />
+                <Precinct name="ML05B" votes="16" />
+                <Precinct name="ML05C" votes="219" />
+                <Precinct name="ML06A" votes="36" />
+                <Precinct name="ML06B" votes="105" />
+                <Precinct name="ML071" votes="6" />
+                <Precinct name="ML072" votes="70" />
+                <Precinct name="ML07A" votes="66" />
+                <Precinct name="MP01" votes="17" />
+                <Precinct name="RW01" votes="91" />
+                <Precinct name="RW02" votes="73" />
+                <Precinct name="RW03" votes="155" />
+                <Precinct name="RW04" votes="394" />
+                <Precinct name="RW05" votes="87" />
+                <Precinct name="RW06" votes="421" />
+                <Precinct name="RW07A" votes="85" />
+                <Precinct name="RW07B" votes="7" />
+                <Precinct name="RW08" votes="52" />
+                <Precinct name="RW09" votes="293" />
+                <Precinct name="RW10" votes="32" />
+                <Precinct name="RW11A" votes="73" />
+                <Precinct name="RW12" votes="513" />
+                <Precinct name="RW13" votes="435" />
+                <Precinct name="RW16" votes="93" />
+                <Precinct name="RW17" votes="464" />
+                <Precinct name="RW19" votes="282" />
+                <Precinct name="RW20" votes="537" />
+                <Precinct name="RW21" votes="441" />
+                <Precinct name="RW22A" votes="576" />
+                <Precinct name="SS01" votes="372" />
+                <Precinct name="SS02A" votes="238" />
+                <Precinct name="SS02B" votes="258" />
+                <Precinct name="SS03" votes="232" />
+                <Precinct name="SS04" votes="471" />
+                <Precinct name="SS05" votes="292" />
+                <Precinct name="SS06" votes="176" />
+                <Precinct name="SS07A" votes="116" />
+                <Precinct name="SS07B" votes="54" />
+                <Precinct name="SS07C" votes="55" />
+                <Precinct name="SS08A" votes="151" />
+                <Precinct name="SS08B" votes="84" />
+                <Precinct name="SS08C" votes="80" />
+                <Precinct name="SS08D" votes="135" />
+                <Precinct name="SS11A" votes="372" />
+                <Precinct name="SS11B" votes="171" />
+                <Precinct name="SS11C" votes="25" />
+                <Precinct name="SS12" votes="245" />
+                <Precinct name="SS15A" votes="262" />
+                <Precinct name="SS15B" votes="158" />
+                <Precinct name="SS16" votes="235" />
+                <Precinct name="SS17" votes="409" />
+                <Precinct name="SS18A" votes="137" />
+                <Precinct name="SS18B" votes="43" />
+                <Precinct name="SS19A" votes="535" />
+                <Precinct name="SS19B" votes="413" />
+                <Precinct name="SS20" votes="275" />
+                <Precinct name="SS22" votes="302" />
+                <Precinct name="SS25" votes="166" />
+                <Precinct name="SS26" votes="538" />
+                <Precinct name="SS29A" votes="368" />
+                <Precinct name="SS31" votes="163" />
+            </VoteType>
+            <VoteType name="Advance in Person 2" votes="17618">
+                <Precinct name="AP01A" votes="258" />
+                <Precinct name="AP01B" votes="90" />
+                <Precinct name="AP01C" votes="282" />
+                <Precinct name="AP01D" votes="83" />
+                <Precinct name="AP02B" votes="37" />
+                <Precinct name="AP03" votes="66" />
+                <Precinct name="AP04A" votes="22" />
+                <Precinct name="AP04B" votes="1" />
+                <Precinct name="AP05" votes="590" />
+                <Precinct name="AP06" votes="84" />
+                <Precinct name="AP07A" votes="399" />
+                <Precinct name="AP07B" votes="164" />
+                <Precinct name="AP09A" votes="574" />
+                <Precinct name="AP09B" votes="179" />
+                <Precinct name="AP021" votes="324" />
+                <Precinct name="AP022" votes="294" />
+                <Precinct name="AP10" votes="143" />
+                <Precinct name="AP12A" votes="98" />
+                <Precinct name="AP12B" votes="85" />
+                <Precinct name="AP12C" votes="164" />
+                <Precinct name="AP13" votes="409" />
+                <Precinct name="AP14" votes="474" />
+                <Precinct name="JC01" votes="955" />
+                <Precinct name="JC02" votes="286" />
+                <Precinct name="JC03A" votes="115" />
+                <Precinct name="JC03B" votes="272" />
+                <Precinct name="JC04A" votes="857" />
+                <Precinct name="JC04B" votes="45" />
+                <Precinct name="JC05" votes="425" />
+                <Precinct name="JC06" votes="244" />
+                <Precinct name="JC07" votes="751" />
+                <Precinct name="JC08" votes="525" />
+                <Precinct name="JC09" votes="519" />
+                <Precinct name="JC10" votes="381" />
+                <Precinct name="JC11" votes="408" />
+                <Precinct name="JC12" votes="211" />
+                <Precinct name="JC13A" votes="57" />
+                <Precinct name="JC13B" votes="5" />
+                <Precinct name="JC14" votes="286" />
+                <Precinct name="JC15" votes="117" />
+                <Precinct name="JC16" votes="166" />
+                <Precinct name="JC18" votes="49" />
+                <Precinct name="JC19" votes="97" />
+                <Precinct name="ML011" votes="6" />
+                <Precinct name="ML012" votes="5" />
+                <Precinct name="ML01B" votes="0" />
+                <Precinct name="ML021" votes="9" />
+                <Precinct name="ML022" votes="1" />
+                <Precinct name="ML023" votes="8" />
+                <Precinct name="ML024" votes="2" />
+                <Precinct name="ML03" votes="102" />
+                <Precinct name="ML04A" votes="141" />
+                <Precinct name="ML04B" votes="49" />
+                <Precinct name="ML04C" votes="3" />
+                <Precinct name="ML05A" votes="1" />
+                <Precinct name="ML05B" votes="14" />
+                <Precinct name="ML05C" votes="339" />
+                <Precinct name="ML06A" votes="187" />
+                <Precinct name="ML06B" votes="367" />
+                <Precinct name="ML071" votes="3" />
+                <Precinct name="ML072" votes="29" />
+                <Precinct name="ML07A" votes="9" />
+                <Precinct name="MP01" votes="33" />
+                <Precinct name="RW01" votes="580" />
+                <Precinct name="RW02" votes="599" />
+                <Precinct name="RW03" votes="516" />
+                <Precinct name="RW04" votes="18" />
+                <Precinct name="RW05" votes="209" />
+                <Precinct name="RW06" votes="33" />
+                <Precinct name="RW07A" votes="74" />
+                <Precinct name="RW07B" votes="41" />
+                <Precinct name="RW08" votes="212" />
+                <Precinct name="RW09" votes="488" />
+                <Precinct name="RW10" votes="523" />
+                <Precinct name="RW11A" votes="329" />
+                <Precinct name="RW12" votes="405" />
+                <Precinct name="RW13" votes="67" />
+                <Precinct name="RW16" votes="211" />
+                <Precinct name="RW17" votes="62" />
+                <Precinct name="RW19" votes="34" />
+                <Precinct name="RW20" votes="3" />
+                <Precinct name="RW21" votes="4" />
+                <Precinct name="RW22A" votes="23" />
+                <Precinct name="SS01" votes="18" />
+                <Precinct name="SS02A" votes="0" />
+                <Precinct name="SS02B" votes="6" />
+                <Precinct name="SS03" votes="2" />
+                <Precinct name="SS04" votes="10" />
+                <Precinct name="SS05" votes="4" />
+                <Precinct name="SS06" votes="1" />
+                <Precinct name="SS07A" votes="4" />
+                <Precinct name="SS07B" votes="1" />
+                <Precinct name="SS07C" votes="3" />
+                <Precinct name="SS08A" votes="5" />
+                <Precinct name="SS08B" votes="3" />
+                <Precinct name="SS08C" votes="1" />
+                <Precinct name="SS08D" votes="5" />
+                <Precinct name="SS11A" votes="12" />
+                <Precinct name="SS11B" votes="2" />
+                <Precinct name="SS11C" votes="1" />
+                <Precinct name="SS12" votes="6" />
+                <Precinct name="SS15A" votes="32" />
+                <Precinct name="SS15B" votes="42" />
+                <Precinct name="SS16" votes="3" />
+                <Precinct name="SS17" votes="40" />
+                <Precinct name="SS18A" votes="1" />
+                <Precinct name="SS18B" votes="1" />
+                <Precinct name="SS19A" votes="9" />
+                <Precinct name="SS19B" votes="3" />
+                <Precinct name="SS20" votes="9" />
+                <Precinct name="SS22" votes="34" />
+                <Precinct name="SS25" votes="1" />
+                <Precinct name="SS26" votes="10" />
+                <Precinct name="SS29A" votes="16" />
+                <Precinct name="SS31" votes="3" />
+            </VoteType>
+            <VoteType name="Provisional" votes="0">
+                <Precinct name="AP01A" votes="0" />
+                <Precinct name="AP01B" votes="0" />
+                <Precinct name="AP01C" votes="0" />
+                <Precinct name="AP01D" votes="0" />
+                <Precinct name="AP02B" votes="0" />
+                <Precinct name="AP03" votes="0" />
+                <Precinct name="AP04A" votes="0" />
+                <Precinct name="AP04B" votes="0" />
+                <Precinct name="AP05" votes="0" />
+                <Precinct name="AP06" votes="0" />
+                <Precinct name="AP07A" votes="0" />
+                <Precinct name="AP07B" votes="0" />
+                <Precinct name="AP09A" votes="0" />
+                <Precinct name="AP09B" votes="0" />
+                <Precinct name="AP021" votes="0" />
+                <Precinct name="AP022" votes="0" />
+                <Precinct name="AP10" votes="0" />
+                <Precinct name="AP12A" votes="0" />
+                <Precinct name="AP12B" votes="0" />
+                <Precinct name="AP12C" votes="0" />
+                <Precinct name="AP13" votes="0" />
+                <Precinct name="AP14" votes="0" />
+                <Precinct name="JC01" votes="0" />
+                <Precinct name="JC02" votes="0" />
+                <Precinct name="JC03A" votes="0" />
+                <Precinct name="JC03B" votes="0" />
+                <Precinct name="JC04A" votes="0" />
+                <Precinct name="JC04B" votes="0" />
+                <Precinct name="JC05" votes="0" />
+                <Precinct name="JC06" votes="0" />
+                <Precinct name="JC07" votes="0" />
+                <Precinct name="JC08" votes="0" />
+                <Precinct name="JC09" votes="0" />
+                <Precinct name="JC10" votes="0" />
+                <Precinct name="JC11" votes="0" />
+                <Precinct name="JC12" votes="0" />
+                <Precinct name="JC13A" votes="0" />
+                <Precinct name="JC13B" votes="0" />
+                <Precinct name="JC14" votes="0" />
+                <Precinct name="JC15" votes="0" />
+                <Precinct name="JC16" votes="0" />
+                <Precinct name="JC18" votes="0" />
+                <Precinct name="JC19" votes="0" />
+                <Precinct name="ML011" votes="0" />
+                <Precinct name="ML012" votes="0" />
+                <Precinct name="ML01B" votes="0" />
+                <Precinct name="ML021" votes="0" />
+                <Precinct name="ML022" votes="0" />
+                <Precinct name="ML023" votes="0" />
+                <Precinct name="ML024" votes="0" />
+                <Precinct name="ML03" votes="0" />
+                <Precinct name="ML04A" votes="0" />
+                <Precinct name="ML04B" votes="0" />
+                <Precinct name="ML04C" votes="0" />
+                <Precinct name="ML05A" votes="0" />
+                <Precinct name="ML05B" votes="0" />
+                <Precinct name="ML05C" votes="0" />
+                <Precinct name="ML06A" votes="0" />
+                <Precinct name="ML06B" votes="0" />
+                <Precinct name="ML071" votes="0" />
+                <Precinct name="ML072" votes="0" />
+                <Precinct name="ML07A" votes="0" />
+                <Precinct name="MP01" votes="0" />
+                <Precinct name="RW01" votes="0" />
+                <Precinct name="RW02" votes="0" />
+                <Precinct name="RW03" votes="0" />
+                <Precinct name="RW04" votes="0" />
+                <Precinct name="RW05" votes="0" />
+                <Precinct name="RW06" votes="0" />
+                <Precinct name="RW07A" votes="0" />
+                <Precinct name="RW07B" votes="0" />
+                <Precinct name="RW08" votes="0" />
+                <Precinct name="RW09" votes="0" />
+                <Precinct name="RW10" votes="0" />
+                <Precinct name="RW11A" votes="0" />
+                <Precinct name="RW12" votes="0" />
+                <Precinct name="RW13" votes="0" />
+                <Precinct name="RW16" votes="0" />
+                <Precinct name="RW17" votes="0" />
+                <Precinct name="RW19" votes="0" />
+                <Precinct name="RW20" votes="0" />
+                <Precinct name="RW21" votes="0" />
+                <Precinct name="RW22A" votes="0" />
+                <Precinct name="SS01" votes="0" />
+                <Precinct name="SS02A" votes="0" />
+                <Precinct name="SS02B" votes="0" />
+                <Precinct name="SS03" votes="0" />
+                <Precinct name="SS04" votes="0" />
+                <Precinct name="SS05" votes="0" />
+                <Precinct name="SS06" votes="0" />
+                <Precinct name="SS07A" votes="0" />
+                <Precinct name="SS07B" votes="0" />
+                <Precinct name="SS07C" votes="0" />
+                <Precinct name="SS08A" votes="0" />
+                <Precinct name="SS08B" votes="0" />
+                <Precinct name="SS08C" votes="0" />
+                <Precinct name="SS08D" votes="0" />
+                <Precinct name="SS11A" votes="0" />
+                <Precinct name="SS11B" votes="0" />
+                <Precinct name="SS11C" votes="0" />
+                <Precinct name="SS12" votes="0" />
+                <Precinct name="SS15A" votes="0" />
+                <Precinct name="SS15B" votes="0" />
+                <Precinct name="SS16" votes="0" />
+                <Precinct name="SS17" votes="0" />
+                <Precinct name="SS18A" votes="0" />
+                <Precinct name="SS18B" votes="0" />
+                <Precinct name="SS19A" votes="0" />
+                <Precinct name="SS19B" votes="0" />
+                <Precinct name="SS20" votes="0" />
+                <Precinct name="SS22" votes="0" />
+                <Precinct name="SS25" votes="0" />
+                <Precinct name="SS26" votes="0" />
+                <Precinct name="SS29A" votes="0" />
+                <Precinct name="SS31" votes="0" />
+            </VoteType>
+        </Choice>
+    </Contest>
+</ElectionResult>
