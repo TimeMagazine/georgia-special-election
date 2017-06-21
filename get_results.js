@@ -52,10 +52,10 @@ function readXML(filepath) {
 
     // read the XML as JSON
 	parseString(xml, function (err, result) {
-		// save JSON object for easy viewing
-    	fs.writeFileSync(filepath.replace(".xml", ".json").replace("elections/", "json/"), JSON.stringify(result, null, 2));
+		// save JSON object for easy viewing if you want
+    	// fs.writeFileSync(filepath.replace(".xml", ".json").replace("elections/", "json/"), JSON.stringify(result, null, 2));
 
-    	var county = result.ElectionResult.Region;
+    	var county = result.ElectionResult.Region[0];
 
     	// get turnout by precinct
     	var turnout = {};
@@ -90,7 +90,7 @@ function readXML(filepath) {
     			});
     		});
     		// check that the totals match. They should.
-    		console.log(candidate, total, count);
+    		console.log("Checking that totals match:", county, candidate, total, count);
     	});
 
     	// join the turnout and results
